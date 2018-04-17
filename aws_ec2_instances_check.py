@@ -35,7 +35,7 @@ if __name__ == "__main__":
 			if IPAddress(ip) in IPNetwork(ip_range):
 				matches.append("%s (%s)" % (", ".join(reasons), ip_range))
 		if len(matches) > 0:
-			print("[!] Alert, seems instance is blacklisted: %s" % matches)
+			print("\n[!] Alert, seems instance %s (%s) is blacklisted: %s\n" % (name, ip, matches))
 			blacklisted += 1
 	print("\nTotal blacklisted: %d ips" % blacklisted)
 
