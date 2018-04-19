@@ -135,6 +135,7 @@
 130.185.148.11
 130.185.148.73
 135b08.olimp9cf3.top
+138.197.107.109
 138.197.107.126
 138.197.107.163
 138.197.107.187
@@ -15486,6 +15487,7 @@ www.med-spravki-msk.ru
 www.med812.com
 www.medical-spravki.com
 www.medicinskie-spravki-msk.ru
+www.mediplus.ru
 www.meditail.ru
 www.medknigka-cheboksary.ru
 www.medskladmsk.ru
