@@ -135,6 +135,8 @@
 138.197.107.163
 138.197.107.187
 138.197.107.80
+138.197.138.123
+138.197.153.131
 138.197.166.243
 138.197.172.194
 138.197.99.232
@@ -13247,6 +13249,7 @@ telki.co
 telzakaz.ru
 tentoriumgold.ru
 tesak.org
+test1.plusminus1.com
 test2.plusminus1.com
 test3.plusminus1.com
 tex-osmotr-avto.ru
@@ -16217,7 +16220,6 @@ www1.bets08.ru
 www1.fon1.bet
 www1.myzuka.me
 www1.ssra.ru
-www1.vipfonbet.ru
 www10.betcity.ru.com
 www10.bkbetcity.com
 www10.zerkalo-bk.com
