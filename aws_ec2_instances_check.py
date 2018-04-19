@@ -36,9 +36,10 @@ if __name__ == "__main__":
 		for instance in tqdm.tqdm(running_instances, desc="Instances"):
 			name = "Unknown"
 			running.add(instance.id)
-			for tag in instance.tags:
-				if 'Name'in tag['Key']:
-					name = tag['Value']
+			if instance.tags is not None:
+				for tag in instance.tags:
+					if 'Name'in tag['Key']:
+						name = tag['Value']
 			ip = instance.public_ip_address
 			matches = []
 			for ip_range, reasons in tqdm.tqdm(blacklist.items(), desc="%s: %s" % (name, ip)):
