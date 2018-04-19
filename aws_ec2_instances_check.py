@@ -24,24 +24,29 @@ def parse_blacklist():
 if __name__ == "__main__":
 	blacklist = parse_blacklist()
 	print("Inited blacklist size: %d" % len(blacklist))
-	ec2 = boto3.resource('ec2')
-	running_instances = ec2.instances.filter(Filters=[{'Name': 'instance-state-name', 'Values': ['running']}])
 	blacklisted = {}
 	running = set()
-	for instance in tqdm.tqdm(running_instances, desc="Instances"):
-		name = "Unknown"
-		running.add(instance.id)
-		for tag in instance.tags:
-			if 'Name'in tag['Key']:
-				name = tag['Value']
-		ip = instance.public_ip_address
-		matches = []
-		for ip_range, reasons in tqdm.tqdm(blacklist.items(), desc="%s: %s" % (name, ip)):
-			if IPAddress(ip) in IPNetwork(ip_range):
-				matches.append("%s (%s)" % (", ".join(reasons), ip_range))
-		if len(matches) > 0:
-			print("\n[!] Alert, seems instance %s (%s) is blacklisted: %s\n" % (name, ip, matches))
-			blacklisted[instance.id]  = {"name": name, "ip": ip}
+
+	regions = boto3.client('ec2').describe_regions()['Regions']
+	for region in regions:
+		region = region['RegionName']
+		print("Processing %s" % region)
+		ec2 = boto3.resource('ec2', region_name=region)
+		running_instances = ec2.instances.filter(Filters=[{'Name': 'instance-state-name', 'Values': ['running']}])
+		for instance in tqdm.tqdm(running_instances, desc="Instances"):
+			name = "Unknown"
+			running.add(instance.id)
+			for tag in instance.tags:
+				if 'Name'in tag['Key']:
+					name = tag['Value']
+			ip = instance.public_ip_address
+			matches = []
+			for ip_range, reasons in tqdm.tqdm(blacklist.items(), desc="%s: %s" % (name, ip)):
+				if IPAddress(ip) in IPNetwork(ip_range):
+					matches.append("%s (%s)" % (", ".join(reasons), ip_range))
+			if len(matches) > 0:
+				print("\n[!] Alert, seems instance %s (%s) is blacklisted: %s\n" % (name, ip, matches))
+				blacklisted[instance.id]  = {"name": name, "ip": ip}
 	try:
 		with open("last_state.json") as last_file:
 			last_state = json.load(last_file)
