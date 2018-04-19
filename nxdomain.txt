@@ -130,6 +130,7 @@
 12zenit.info
 13-250-40-134.ap-southeast-1.compute.amazonaws.com
 13.78.117.192
+13.78.83.27
 130.185.148.11
 130.185.148.73
 135b08.olimp9cf3.top
@@ -3588,6 +3589,7 @@ c00ce7.olimp4859.top
 c09b94.olimp4859.top
 c0e0d1.olimp786f.top
 c1b5bae92a286a6b09.c2ef25.56da77944fa86649b9.xyz
+c1dd10.olimp27fe.top
 c20f2a.olimpcc44.top
 c2d12efa31829790eb.c2ef25.190bf9a7687e0c05cb.xyz
 c2e549.olimp58e8.top
