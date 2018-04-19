@@ -18,7 +18,10 @@ def parse_blacklist():
 			tokens = line.split(';')
 			ips = tokens[0]
 			for ip in ips.split(" | "):
-				blacklist[ip].add("%s: %s" % (tokens[4], tokens[5]))
+				try:
+					blacklist[IPNetwork(ip)].add("%s: %s" % (tokens[4], tokens[5]))
+				except:
+					print("Unable to process ip %s" % ip)
 	return blacklist
 
 if __name__ == "__main__":
@@ -43,7 +46,7 @@ if __name__ == "__main__":
 			ip = instance.public_ip_address
 			matches = []
 			for ip_range, reasons in tqdm.tqdm(blacklist.items(), desc="%s: %s" % (name, ip)):
-				if IPAddress(ip) in IPNetwork(ip_range):
+				if IPAddress(ip) in ip_range:
 					matches.append("%s (%s)" % (", ".join(reasons), ip_range))
 			if len(matches) > 0:
 				print("\n[!] Alert, seems instance %s (%s) is blacklisted: %s\n" % (name, ip, matches))
