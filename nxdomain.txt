@@ -200,7 +200,6 @@
 185.141.165.14
 185.164.172.1
 185.164.172.21
-185.211.245.136
 185.26.97.249
 185.27.237.118
 185.97.112.34
@@ -1207,6 +1206,7 @@
 52.16.203.47
 52.17.131.158
 52.175.12.164
+52.175.27.7
 52.18.35.149
 52.19.54.248
 52.19.8.24
@@ -1308,6 +1308,7 @@
 63.kiski.us
 63c0be.olimp9cf3.top
 63ef0eef-62ea-45bf-b7d4-7608dc563815.clouding.host
+64.137.62.61
 64619f.olimp876c.site
 64f119.olimpfc65.top
 650dd2.olimpa88c.site
@@ -9414,7 +9415,6 @@ moskve-berdsk-amfetamin-v-spajs.x-drug.ru
 moskvi4.biz
 moskvichki.org
 moss-gaz.ru
-mosspravki.ru
 most.adv.bkfind.space
 motofreedom.ru
 move.loveisover.me
@@ -13407,8 +13407,6 @@ telzakaz.ru
 tentoriumgold.ru
 tesak.org
 test1.plusminus1.com
-test2.plusminus1.com
-test3.plusminus1.com
 tex-osmotr-avto.ru
 tfile-torrent.info
 tglink1.profile.www.service.rkngov.top
