@@ -54,7 +54,7 @@ if __name__ == "__main__":
 		last_state = {}
 	slack_url = os.environ.get("SLACK_URL", None)
 	def send_slack(message, color):
-		payload = { "channel": "@pshuvalov", "username": "Zharov A.A.", "attachments": [ { "text": message, "color": color } ] }
+		payload = { "username": "Zharov A.A.", "attachments": [ { "text": message, "color": color } ] }
 		requests.post(slack_url, data=json.dumps(payload)).text
 		
 	if slack_url is not None:
