@@ -87,6 +87,7 @@
 10335c.olimp1a50.top
 1039luxury.com
 104.211.177.59
+104.211.186.108
 104.215.21.144
 104.215.22.182
 108.174.63.110
@@ -1221,6 +1222,7 @@
 52.17.131.158
 52.175.12.164
 52.175.27.7
+52.176.97.12
 52.18.35.149
 52.19.54.248
 52.19.8.24
@@ -2597,7 +2599,6 @@ aptekahealthcare.com
 aptekaopen24.ru
 aptekazdrav.com
 aq3y6ksvq0.wap33.betcity.ru.com
-archive.ec
 archive.loveisover.me
 arduino73.ru
 arendaiservice.ru
@@ -16696,6 +16697,7 @@ xn----8sbbbby4al7dc.xn--p1acf
 xn----8sbbqblwjkjjuwx.top
 xn----8sbe5b1ae9a.xn--p1ai
 xn----8sbgfewnk4akj.com
+xn----8sbirvmva.xn--p1ai
 xn----8sbkihgdj4adh.com
 xn----8sbkihgdj4adh.xn--p1ai
 xn----8sbkocdl1ajmxx.xn--p1acf
