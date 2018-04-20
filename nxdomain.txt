@@ -1243,6 +1243,7 @@
 52.165.229.97
 52.169.221.178
 52.17.131.158
+52.170.192.212
 52.175.12.115
 52.175.12.164
 52.175.27.7
@@ -4471,6 +4472,7 @@ diplom-rostov76.com
 diplom-ryazan.com
 diplom-s-provodkoi.com
 diplom-sale.ru
+diplom-samara-kupit.com
 diplom-samara.com
 diplom-samara63.com
 diplom-saratov.com
