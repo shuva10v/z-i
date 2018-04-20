@@ -63,7 +63,7 @@ if __name__ == "__main__":
 		
 	if slack_url is not None:
 		for id, value in blacklisted.items():
-			if id not in last_state:
+			if id not in last_state and value['name'] != "Unknown":
 				print("New instance banned!")
 				send_slack("New instance banned :face_with_symbols_on_mouth: %s %s (%s)" % (id, value['name'], value['ip']), "danger")
 		for id, value in last_state.items():
