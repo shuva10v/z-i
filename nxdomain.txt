@@ -88,6 +88,7 @@
 1039luxury.com
 104.211.177.59
 104.211.186.108
+104.211.246.109
 104.215.21.144
 104.215.22.182
 108.174.63.110
@@ -1244,6 +1245,7 @@
 52.215.252.159
 52.215.33.36
 52.215.37.145
+52.230.124.60
 52.231.187.204
 52.232.124.213
 52.28.27.206
@@ -2869,6 +2871,7 @@ b889cf.olimp27fe.top
 b90fb8.olimp656f.top
 b9c3c9.olimp1a50.top
 badbrothers.com.ua
+bademsoft.murattarakci.com.tr
 badperson.website
 bady-girls.ru
 balt-bet.net
@@ -10664,6 +10667,7 @@ perm-lux.com
 perm.pra-ton.ru
 permdosug.ru
 pervy-kanal-pryamoy.ru
+pesnitxt.ru
 peterpalacecasino.com
 pevunok.ru
 pharaon-casino.com
@@ -11855,6 +11859,7 @@ ru-azart.com
 ru-bk.ru
 ru-bk1.ru
 ru-bk3.ru
+ru-bk30.ru
 ru-credit.com
 ru-dip.com
 ru-diplom4u.com
@@ -12560,7 +12565,6 @@ shaman24.ru
 shamarc.biz.hk.cn
 shamarc.biz.ua
 shamarc.cf
-shamarc.ga
 shamarc.space
 shamarc.top
 shamars.biz
