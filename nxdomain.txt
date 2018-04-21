@@ -1167,6 +1167,7 @@
 461926.olimp9b55.gdn
 46d5f0.olimp3043.top
 47.254.132.82
+47.254.133.195
 47.254.145.156
 47.254.148.205
 47.254.148.208
@@ -4524,7 +4525,6 @@ diplom71.com
 diplom74.net
 diplom78.info
 diploma-74.ru
-diploma-a.com
 diploma-at.ru
 diploma-attestat-kupite.com
 diploma-attestat-spb.com
@@ -9033,7 +9033,6 @@ mega-dwar.com
 mega-jack.net
 mega-mag-24.biz
 mega-mag.biz
-mega-mag24.biz
 mega-magnet.org
 mega-massa.org
 mega.adv.bkfind.space
