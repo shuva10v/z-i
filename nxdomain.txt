@@ -113,7 +113,6 @@
 111.minecraftsupergame.ru
 1110.leon-bets.su
 1111zenit.win
-111slot.com
 111zenit.info
 111zenit.win
 112azino777.win
@@ -1178,6 +1177,7 @@
 47.254.149.0
 47.254.149.116
 47.254.149.131
+47.254.149.132
 47.254.149.82
 47.254.35.43
 47.91.77.48
@@ -1611,6 +1611,7 @@
 93.189.57.38
 93bf00.olimpb4cc.top
 93d4c6.olimpef97.site
+94.237.48.117
 9400c8.olimp786f.top
 947420d8d2d528d9c870a84e992d1704-h.gf7tiuy9.info
 94877c.olimpa2b2.gdn
@@ -10573,7 +10574,6 @@ p-ijevsk.ru
 p-kemerovo.ru
 p-kursk.ru
 p-novokuzneck.ru
-p-novorossiysk.ru
 p-omsk.ru
 p-samara.ru
 p-stavropol.ru
@@ -14053,7 +14053,6 @@ vseuznaem.org
 vsexkontakte.club
 vsfilm.ru
 vsiomogu.ru
-vud.rodob.com
 vuku.xxx
 vulcan-casino-online.ru
 vulcan-casino.io
