@@ -1176,6 +1176,7 @@
 47.254.135.234
 47.254.144.167
 47.254.145.156
+47.254.147.114
 47.254.148.205
 47.254.148.208
 47.254.148.213
@@ -3314,6 +3315,8 @@ bk-fonbet.tk
 bk-g6.ostanovi-schetchik.ru
 bk-info1.online
 bk-info10.online
+bk-info18.online
+bk-info19.online
 bk-info3.online
 bk-info5.online
 bk-info6.online
@@ -3395,6 +3398,7 @@ bkfonsport.cf
 bkfonsports.cf
 bkinfo1.online
 bkinfo10.online
+bkinfo18.online
 bkinfo19.online
 bkinfo2.online
 bkinfo3.online
