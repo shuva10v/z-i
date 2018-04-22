@@ -136,7 +136,9 @@
 12sporting.30bet.site
 12zenit.info
 13-250-40-134.ap-southeast-1.compute.amazonaws.com
+13.66.49.241
 13.70.84.127
+13.71.19.50
 13.71.23.75
 13.71.26.94
 13.71.29.144
@@ -1268,6 +1270,7 @@
 52.16.203.47
 52.161.145.164
 52.161.147.244
+52.161.162.64
 52.163.121.209
 52.165.229.97
 52.169.221.178
@@ -8770,6 +8773,7 @@ m.vip-zenit.win
 m.vulkan-gamez.com
 m.wbtgold.com
 m.windbetbk.com
+m.windbk.com
 m.winzenit.win
 m.wndbtapps.com
 m.world-of-bkfon.cf
@@ -13509,6 +13513,7 @@ telki.co
 telzakaz.ru
 tentoriumgold.ru
 tesak.org
+test1.plusminus1.com
 test2.plusminus1.com
 test3.plusminus1.com
 tex-osmotr-avto.ru
