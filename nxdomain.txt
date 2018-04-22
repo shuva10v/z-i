@@ -138,6 +138,7 @@
 13.70.84.127
 13.71.23.75
 13.71.26.94
+13.71.29.144
 13.71.31.139
 13.78.117.192
 13.78.83.27
@@ -794,7 +795,6 @@
 1xswc.xyz
 1xtac.xyz
 1xtari.space
-1xtav.xyz
 1xtih.xyz
 1xtitledic.xyz
 1xtitlehyh.xyz
@@ -1179,6 +1179,7 @@
 47.254.144.167
 47.254.145.156
 47.254.147.114
+47.254.148.181
 47.254.148.205
 47.254.148.208
 47.254.148.213
@@ -4063,7 +4064,6 @@ casinoclubadmiral.com
 casinoclubadmiral.net
 casinoclubazart.com
 casinocom.ru
-casinodrift.club
 casinodrift.me
 casinodrift.win
 casinoegrnd.net
@@ -7332,7 +7332,6 @@ kupit-pasport.ru
 kupit-prava-na-traktor.com
 kupit-prava-rf.ru
 kupit-prava.cc
-kupit-prava.space
 kupit-prava.xyz
 kupit-prodiplom.com
 kupit-rc.ru
@@ -10415,7 +10414,6 @@ olimp-help.info
 olimp-help.xyz
 olimp-s3.com
 olimp-s4.com
-olimp-training.ru
 olimp.ge
 olimp1374.com
 olimp1378.com
@@ -13390,6 +13388,7 @@ storverg.ru
 stost-online.ru
 street-studio.ru
 stroim174.ru
+strojca.top
 sts-nt.ru
 studia-podari.ru
 studio-dekor.ru
@@ -14072,6 +14071,7 @@ vse-soski.ru
 vse-svidetelstva.com
 vsecasino.me
 vsecasino.net
+vsediplomi.ru
 vsediplomu.ru
 vsekurtizanki.ru
 vsem-doki-plus.ru
@@ -14864,12 +14864,10 @@ www.bwinner365.com
 www.byhalko.com
 www.c.intimstory.com
 www.caelacasino.com
-www.caeur.com
 www.carbonpoker.org
 www.carderlive.ru
 www.cas4you.ru
 www.cashga.me
-www.cashslot.ru
 www.casibonus.info
 www.casino-e-money.org
 www.casino-elite.net
@@ -15460,7 +15458,6 @@ www.kupit-diploms.net
 www.kupit-diplomvekaterinburge.ru
 www.kupit-prava.biz
 www.kupit-prava.co
-www.kupit-prava.space
 www.kupit-spravku.su
 www.kupitdiplom-krasnodar.com
 www.kupitdiplom-samara.com
