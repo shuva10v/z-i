@@ -3453,6 +3453,7 @@ bkfonsport.cf
 bkfonsports.cf
 bkinfo1.online
 bkinfo10.online
+bkinfo17.online
 bkinfo18.online
 bkinfo19.online
 bkinfo2.online
@@ -16563,6 +16564,7 @@ www1.bets08.ru
 www1.fon1.bet
 www1.myzuka.me
 www1.ssra.ru
+www1.vipfonbet.ru
 www10.betcity.ru.com
 www10.bkbetcity.com
 www10.zerkalo-bk.com
