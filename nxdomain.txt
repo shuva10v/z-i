@@ -890,6 +890,7 @@
 212.71.244.40
 213089.olimp53d1.top
 2155be.olimp6b96.top
+216.119.146.47.static.midphase.com
 216.119.148.134.static.midphase.com
 216.173.108.158
 217.11.180.57
@@ -1101,6 +1102,7 @@
 35fix.ru
 36d8e7.olimpcc44.top
 37.1.207.115
+37.123.118.99
 37.139.28.143
 37.220.22.122
 37.220.4.154
@@ -8318,6 +8320,7 @@ m.bksportfon.org
 m.bksportfon.pro
 m.bkwindb0.com
 m.bkwindbet.com
+m.bkwndb.com
 m.bkzenitbet.xyz
 m.bkzenitbetsport.xyz
 m.bkzenitsport.xyz
@@ -8778,6 +8781,7 @@ m.vip-zenit.win
 m.vulkan-gamez.com
 m.wbtgold.com
 m.windbetbk.com
+m.windbetgold920.com
 m.windbk.com
 m.winzenit.win
 m.wndbtapps.com
