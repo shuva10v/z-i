@@ -1252,6 +1252,7 @@
 47.254.149.84
 47.254.149.88
 47.254.149.90
+47.254.150.153
 47.254.150.50
 47.254.150.66
 47.254.150.69
@@ -1382,6 +1383,7 @@
 52.231.184.14
 52.231.184.240
 52.231.187.204
+52.231.190.3
 52.231.8.92
 52.232.124.213
 52.233.56.128
@@ -6352,6 +6354,7 @@ goodenuff.biz
 goodklad.biz
 goodklady.ru
 goodzakladki.ru
+google.bk1.me
 google.leonzerkalo.org
 gopowder.ru
 gora-vulcan.com
@@ -13712,6 +13715,8 @@ tentoriumgold.ru
 tesak.org
 test.bezumnyyshlyapnik.ru
 test1.plusminus1.com
+test2.plusminus1.com
+test3.plusminus1.com
 tex-osmotr-avto.ru
 tfile-torrent.info
 tglink1.profile.www.service.rkngov.top
