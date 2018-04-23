@@ -96,7 +96,6 @@
 10.300kbit.pw
 1003.poker.bkr37.top
 1004.poker.bkr85.top
-100diplomovs.com
 100diploms.com
 100igronline.com
 100telok.com
@@ -177,6 +176,7 @@
 13.78.88.79
 13.78.89.4
 13.88.11.234
+13.90.227.132
 13.91.124.14
 13.92.141.137
 130.185.148.11
@@ -1278,12 +1278,15 @@
 47.254.67.83
 47.74.11.24
 47.74.12.227
+47.74.14.59
+47.74.15.142
 47.74.5.249
 47.74.7.235
 47.74.9.52
 47.91.104.19
 47.91.105.134
 47.91.106.119
+47.91.109.211
 47.91.16.133
 47.91.31.142
 47.91.77.48
@@ -2188,7 +2191,6 @@ account.world-of-fonbet.tk
 account.world-of-fongame.cf
 account.world-of-fongame.tk
 acecasino.top
-acidshop.ml
 acidstore.ml
 acidstore.ru
 acme.legal
@@ -4480,7 +4482,6 @@ daffylads.biz
 daleevezde.ru
 damidarom.ru
 darevamed.ru
-dark-market.org
 darkbenghazi.com
 darksense.ru
 darmowekasyno.net.pl
@@ -6875,7 +6876,6 @@ kak-zayti-na-marafon7.top
 kak-zayti-na-marafon8.top
 kak-zayti-na-marafon9.top
 kaktostrann.biz
-kaktus24biz.ml
 kalefarnia.ru
 kalifarnia.ru
 kaliningrad-diplom.com
@@ -7031,7 +7031,6 @@ kls.dosug.org
 klubdosuga.ru
 klubvulkanudachi.com
 kmv13.com
-kmv13.shop
 kmv24.com
 kneufeld.ru
 knigi18.ru
@@ -12625,6 +12624,7 @@ russocasino.net
 rustrelok.net
 rutor.biz.pl
 rutor.org
+rutracker.biz.pl
 rutracker0.club
 ruvirgins.net
 ryazan.prostitutki.photo
@@ -13416,7 +13416,6 @@ srcs678.connect.netcdn.bcdl.rocks
 srcs694.connect.netcdn.bcdl.rocks
 srcs810.connect.netcdn.bcdl.rocks
 srost.in
-srv.bestcomeback.xyz
 ssport1x.com
 ssra.ru
 sstizn.drwallachcd.com
@@ -14656,7 +14655,6 @@ wwu.mp3-tut.biz
 www-legalrc.biz
 www.095u.org
 www.0gdz.ru
-www.100diplomovs.com
 www.100diploms.com
 www.10betru.com
 www.10in10.biz
@@ -16271,6 +16269,7 @@ www.rusex24.com
 www.rusfonbet.ru
 www.rushplay-club.net
 www.rusmmg.ru
+www.rusprava.info
 www.rusprava.space
 www.russian-casinobellini.com
 www.russian-titan-casino.com
