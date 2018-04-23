@@ -1259,6 +1259,7 @@
 47.254.21.51
 47.254.35.190
 47.254.35.43
+47.254.67.83
 47.74.11.24
 47.74.5.249
 47.74.7.235
@@ -11252,6 +11253,7 @@ privatalco.com
 privatalco.lol
 private-dosug.com
 privol.biz
+prize-money.online
 pro-azart.online
 pro.intim38.ru
 pro.irk-girls.com
@@ -13703,8 +13705,6 @@ tentoriumgold.ru
 tesak.org
 test.bezumnyyshlyapnik.ru
 test1.plusminus1.com
-test2.plusminus1.com
-test3.plusminus1.com
 tex-osmotr-avto.ru
 tfile-torrent.info
 tglink1.profile.www.service.rkngov.top
