@@ -1278,6 +1278,7 @@
 47.254.42.230
 47.254.67.83
 47.74.11.24
+47.74.12.227
 47.74.5.249
 47.74.7.235
 47.74.9.52
@@ -4859,7 +4860,6 @@ dom-2.site
 dom-2tv.ru
 dom-couture.com
 dom-filmov.ru
-dom-sbita.cn
 dom2-tv.online
 dom228.biz
 dom24.biz
@@ -5029,7 +5029,6 @@ drugsrnd.ru
 drugsspacefamily.biz
 drugvader.biz
 ds130.ru
-dsbita.cn
 dsbyta.biz
 dublealco.com
 dublikat-alkogolya.pro
@@ -7032,7 +7031,6 @@ klevietelki.ru
 kls.dosug.org
 klubdosuga.ru
 klubvulkanudachi.com
-klukwashop.biz
 kmv13.com
 kmv13.shop
 kmv24.com
@@ -7646,7 +7644,6 @@ kuplydiplom.org
 kurexa.ru
 kurgan-diplom.com
 kurgan.kupi-magnit.com
-kurgan45.biz
 kurgandip.ru
 kuritelnye-miksy-ekaterinburg.ritte.biz
 kuritelnye-miksy-kostroma.ritte.biz
