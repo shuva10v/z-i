@@ -1409,6 +1409,7 @@
 52.233.56.128
 52.233.57.113
 52.235.19.52
+52.235.20.59
 52.235.22.220
 52.237.220.209
 52.237.29.110
@@ -2528,6 +2529,7 @@ all1xsport.com
 allbetting-ru.com
 allbuker.ru
 allfilmonline.vc
+allfon.org
 allkazino.com
 allnaturis.ru
 allods-gold.ru
@@ -10748,6 +10750,7 @@ oonee-shop.ru
 ooovavilon.ru
 opcash.biz
 opcash.club
+opcash.info
 opcash.vip
 opcash.win
 opdrop.info
@@ -10802,6 +10805,7 @@ otsoscz.com
 otsosru.ru
 otzyvy-kazino.club
 otzyvy.ostanovi-schetchik.ru
+oversealottery.info
 owpicker.com
 oxepegax.ru
 ozd-spb.ru
@@ -13128,6 +13132,7 @@ slotsofvolcano.net
 slotsofvolcano.org
 slotspapa.net
 slotspapa.org
+slotvideo.info
 slotvideo.ru
 slotvideo1.net
 slotvoyager.best-kazino.com
@@ -15140,6 +15145,7 @@ www.casinokapkan.com
 www.casinomidas.cl
 www.casinomidas.cz
 www.casinomidas.jp
+www.casinomidas.lt
 www.casinomidas.ru
 www.casinomidas.se
 www.casinomira1.com
