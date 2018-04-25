@@ -1320,6 +1320,7 @@
 52.17.131.158
 52.170.192.212
 52.171.34.117
+52.173.185.118
 52.175.12.115
 52.175.12.164
 52.175.27.7
@@ -13167,7 +13168,6 @@ telki.co
 telzakaz.ru
 tesak.org
 test.bezumnyyshlyapnik.ru
-test1.plusminus1.com
 test2.plusminus1.com
 test3.plusminus1.com
 tex-osmotr-avto.ru
@@ -15552,6 +15552,7 @@ www.pslan.com
 www.psymarket.ml
 www.psyshopbot.ru
 www.putana66.com
+www.putanann.com
 www.pytana-cz.ru
 www.qaoktjkrmen.com
 www.qasxler.com
@@ -16313,7 +16314,6 @@ www2.parimatchwin7.com
 www2.parimatchwin8.com
 www2.pmbet.biz
 www2.tex-osmotr-avto.ru
-www2.vipfonbet.ru
 www2.zerkalo-bk.com
 www24.betcity.ru.com
 www28.betcity.ru.com
