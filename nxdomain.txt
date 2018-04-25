@@ -5423,6 +5423,7 @@ fonbets-info.su
 fonbets-info2.su
 fonbets-info7.su
 fonbets-online.su
+fonbets-online2.su
 fonbets-online5.su
 fonbets.online
 fonbets.su
@@ -13504,6 +13505,7 @@ top-igry.com
 top-onlinecasino.info
 top-onlinecasino.ru
 top-prava.ru
+top-rutor.pl
 top.best-casino.com
 top.getbonus.info
 top10-bukmekerov1.ru
