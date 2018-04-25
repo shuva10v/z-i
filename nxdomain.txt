@@ -1291,6 +1291,7 @@
 51.141.81.181
 51.141.86.5
 51.141.91.104
+51.141.94.39
 51.143.138.174
 51.143.143.215
 51.144.165.119
@@ -1323,6 +1324,7 @@
 52.173.185.118
 52.175.12.115
 52.175.12.164
+52.175.13.96
 52.175.27.7
 52.175.37.204
 52.175.8.252
@@ -13161,8 +13163,6 @@ telki.co
 telzakaz.ru
 tesak.org
 test.bezumnyyshlyapnik.ru
-test2.plusminus1.com
-test3.plusminus1.com
 tex-osmotr-avto.ru
 tfile-torrent.info
 tglink1.profile.www.service.rkngov.top
