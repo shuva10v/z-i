@@ -1033,6 +1033,7 @@
 34.240.53.85
 34.240.91.237
 34.242.171.5
+34.242.243.252
 34.248.166.252
 34.248.30.109
 34.248.72.94
@@ -1326,6 +1327,8 @@
 52.170.192.212
 52.171.194.96
 52.171.34.117
+52.171.51.232
+52.171.54.231
 52.173.185.118
 52.175.12.115
 52.175.12.164
@@ -4861,7 +4864,6 @@ ekx.su
 eldorado-zerkalo.ru
 electro.magnetwater.ru
 electrobait.ru
-elek.club
 elektro.stop-schetchik.ru
 elektro.vybor-magnita.ru
 elektrooff.org
