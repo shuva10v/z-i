@@ -1317,6 +1317,7 @@
 51.143.138.174
 51.143.143.215
 51.143.152.116
+51.143.156.144
 51.144.161.192
 51.144.165.119
 51.144.3.214
@@ -1325,6 +1326,7 @@
 51.144.92.11
 51.144.99.174
 51.145.153.103
+51.145.25.0
 51.145.29.96
 515800.olimpd9f7.top
 516a1e.olimpa89a.top
@@ -2777,6 +2779,7 @@ avtomat-online.net
 avtomatik.name
 avtomatix.net
 avtomatix.org
+avtomatix.party
 avtomatix.pro
 avtomatix.top
 avtomatix.win
@@ -5289,7 +5292,6 @@ fonbets-info.su
 fonbets-info2.su
 fonbets-info7.su
 fonbets-online.su
-fonbets-online2.su
 fonbets-online5.su
 fonbets.online
 fonbets.su
@@ -12197,6 +12199,7 @@ semerka2.club
 semerka3.club
 semerky.club
 semerky.top
+semerky.win
 semerky777.com
 semsemsem.org
 semyanich.mu
