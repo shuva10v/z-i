@@ -1330,6 +1330,7 @@
 52.171.51.232
 52.171.54.231
 52.173.185.118
+52.174.194.69
 52.175.12.115
 52.175.12.164
 52.175.13.96
@@ -9167,6 +9168,7 @@ mobcbl.xyz
 mobcl.xyz
 mobcla.xyz
 mobi.adv.bkfind.space
+mobi.fonbet.com
 mobile.16812888.com
 mobile.24-klad.biz
 mobile.24-klad.com
