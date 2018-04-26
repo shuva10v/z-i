@@ -162,6 +162,7 @@
 13.71.31.139
 13.73.232.210
 13.73.235.21
+13.75.94.88
 13.77.66.228
 13.77.74.125
 13.78.117.192
@@ -5316,7 +5317,6 @@ fox-tr.ru
 foxi548.prnthevideo.com
 fr.ib.metapix.net
 fr89k2en3s.gw.enter.bkfind.space
-fra.green-elephant.org
 francasino.com
 frank-bet.club
 frank-bonus.club
