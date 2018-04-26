@@ -105,6 +105,7 @@
 104.211.181.114
 104.211.184.72
 104.211.186.108
+104.211.187.200
 104.211.190.234
 104.211.191.41
 104.211.246.109
@@ -1132,6 +1133,7 @@
 4.fon1.bet
 40.300kbit.pw
 40.65.125.66
+40.70.8.184
 40.79.56.17
 40.79.59.140
 400fa1.olimp656f.top
@@ -1355,6 +1357,7 @@
 52.175.12.115
 52.175.12.164
 52.175.13.96
+52.175.26.92
 52.175.27.28
 52.175.27.7
 52.175.37.204
@@ -1367,7 +1370,9 @@
 52.185.152.21
 52.19.54.248
 52.19.8.24
+52.191.131.224
 52.191.133.163
+52.191.165.229
 52.191.167.59
 52.208.217.199
 52.209.199.222
@@ -1408,6 +1413,7 @@
 52.235.17.129
 52.235.19.52
 52.235.20.59
+52.235.22.218
 52.235.22.220
 52.235.23.72
 52.237.220.209
@@ -5315,7 +5321,6 @@ formaspravki.org
 format-kino.ru
 forum.fairspice.net
 forum.islom.uz
-forum.natali.ua
 forum.tokmakcity.org.ua
 forum2013.hizb.org.ua
 forumeqty.casino-rate.com
@@ -7781,6 +7786,7 @@ ls-2000gb.com
 lsd-nn.ru
 lsdblog.com
 lu.green-elephant.org
+lubovnicy.pro
 luchshee-online-casino.com
 luchshie-casino.com
 luchshie-casino.online
@@ -10083,7 +10089,6 @@ ok-jack.com
 ok-vuz.com
 okhotnikribalov.ru
 okmuf.ru
-oknapromo.ru
 okporno.ru
 oksafe.vip
 old-ru.888poker.com
@@ -16115,7 +16120,6 @@ www1.bets08.ru
 www1.fon1.bet
 www1.myzuka.me
 www1.ssra.ru
-www1.vipfonbet.ru
 www10.betcity.ru.com
 www10.bkbetcity.com
 www10.zerkalo-bk.com
