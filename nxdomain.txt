@@ -159,6 +159,7 @@
 13.68.108.57
 13.68.78.209
 13.70.84.127
+13.71.16.68
 13.71.18.95
 13.71.19.50
 13.71.20.53
@@ -289,6 +290,7 @@
 191.101.165.203
 191.232.179.116
 191.232.38.146
+191.235.80.158
 191.235.84.232
 1910.leon-bets.su
 195-154-31-196.rev.poneytelecom.eu
@@ -2908,6 +2910,7 @@ azartplay.gold
 azartplay.igryflash.com
 azartplay.kazino.link
 azartplay.men
+azartplay.red
 azartplay.su
 azartplay1.space
 azartplay1.xyz
