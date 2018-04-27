@@ -113,11 +113,9 @@
 104.215.21.144
 104.215.21.189
 104.215.22.182
-104.215.23.76
 104.215.42.25
 104.41.42.25
 104.41.58.141
-104.41.60.5
 108.174.63.110
 108a4a.olimp16e5.top
 109.200.0.100
@@ -156,7 +154,6 @@
 13-250-40-134.ap-southeast-1.compute.amazonaws.com
 13.65.91.85
 13.66.49.241
-13.68.108.57
 13.68.78.209
 13.70.84.127
 13.71.16.68
@@ -182,7 +179,6 @@
 13.82.80.204
 13.84.154.89
 13.84.160.236
-13.84.202.245
 13.84.207.147
 13.88.11.234
 13.88.189.166
@@ -1302,6 +1298,7 @@
 51.141.72.197
 51.141.76.149
 51.141.76.252
+51.141.78.133
 51.141.79.80
 51.141.81.181
 51.141.83.17
@@ -1318,7 +1315,6 @@
 51.143.152.116
 51.143.156.144
 51.143.158.70
-51.143.159.94
 51.144.161.192
 51.144.165.119
 51.144.3.214
@@ -1346,7 +1342,6 @@
 52.151.73.187
 52.151.77.251
 52.151.9.79
-52.158.232.116
 52.16.13.76
 52.16.154.87
 52.16.203.47
@@ -1416,7 +1411,6 @@
 52.215.252.159
 52.215.33.36
 52.215.37.145
-52.224.122.185
 52.224.54.14
 52.229.27.72
 52.229.55.113
@@ -1428,7 +1422,6 @@
 52.231.15.82
 52.231.184.124
 52.231.184.14
-52.231.184.178
 52.231.184.240
 52.231.184.25
 52.231.184.61
@@ -1436,7 +1429,7 @@
 52.231.186.28
 52.231.187.196
 52.231.187.204
-52.231.190.116
+52.231.189.132
 52.231.190.3
 52.231.191.159
 52.231.8.92
@@ -1455,7 +1448,6 @@
 52.235.22.218
 52.235.22.220
 52.235.23.72
-52.235.62.139
 52.236.183.113
 52.237.220.209
 52.237.29.110
@@ -4453,7 +4445,6 @@ dip-attestat.com
 dip-chel.ru
 dip-dokument.com
 dip-goznak.com
-dip-omsk.ru
 dip-rf.com
 dip-ru.com
 dip-samara.com
@@ -4581,7 +4572,6 @@ diploma72.ru
 diplomac.ru
 diplomas-rf.com
 diplomatov.com
-diplomaufa.ru
 diplombox.com
 diplomcheboksary.ru
 diplomgoznac.com
@@ -4696,7 +4686,6 @@ do122.ru
 dobroyeutro.ru
 dobyshop.ru
 doc-best.ru
-docobr.ru
 docs-servis.com
 docsale.net
 docsmaker.net
@@ -4706,7 +4695,6 @@ documentcentr24.com
 documents178.com
 dofryy.com
 dohodi.info
-dok-bank.ru
 dok-diplom.com
 dok2gos.com
 dok911.ru
@@ -6834,7 +6822,6 @@ krasnoyarsk.sekc.name
 krasota.videokapsi.ru
 krasotkaj.ru
 krasotki39.com
-krasotkitut.com
 krem-kn.ru
 krepkie-napitki.ru
 krimface.ru
@@ -6854,10 +6841,8 @@ kupi-diplom-krasnoyarsk.ru
 kupi-diplom-spb.com
 kupi-diplom-ulyanovsk.ru
 kupi-diplom-v-barnaule.ru
-kupi-diplom-v-habarovske.ru
 kupi-diplom-v-kaluge.ru
 kupi-diplom-v-krasnodare.ru
-kupi-diplom-v-tolyatti.ru
 kupi-diplom-v-tule.ru
 kupi-diplom.club
 kupi-diplomvufe.ru
@@ -6990,7 +6975,6 @@ kupit-diplom-v-astrahani.ru
 kupit-diplom-v-barnaule.ru
 kupit-diplom-v-belgorode.ru
 kupit-diplom-v-bryanske.ru
-kupit-diplom-v-habarovske.ru
 kupit-diplom-v-irkutske.ru
 kupit-diplom-v-ivanovo.ru
 kupit-diplom-v-izhevske.ru
@@ -7036,7 +7020,6 @@ kupit-diplomrf.ru
 kupit-diplomsk.com
 kupit-diplomsk.net
 kupit-diplomvbryanske.ru
-kupit-diplomvchelyabinske.ru
 kupit-diplomvekaterinburge.ru
 kupit-diplomvkazani.ru
 kupit-diplomvkemerovo.ru
@@ -9825,7 +9808,6 @@ neodim-magnets.ru
 neodim-market.ru
 neodim.schetchik-m.ru
 neodim23.ru
-neodim24.club
 neodim24.com
 neodimmagnit-baz.com
 neodimmagnitdom.com
@@ -11186,7 +11168,6 @@ psplanernaya.ru
 psychonaut.ml
 psycode.ml
 psyone.tk
-psyplants.ru
 pt.adv.bkfind.space
 ptip24biz.ml
 ptzreklama.ru
@@ -12798,7 +12779,6 @@ slotoking.pl
 slotoking2.info
 slotoking3.info
 slotomania-online.net
-slotomaniya.su
 slotomix.org
 slotosferaplay.com
 slotosphera.com
@@ -13040,7 +13020,6 @@ spravkimsk.org
 spravkinadom.com
 spravkiru.com
 spravkivam.ru
-spravku-med.com
 spravmed.com
 spravvki.com
 sprt1x.space
@@ -13278,7 +13257,6 @@ stavropol.ostanovi-schetchik.ru
 stavropol.prostitutki.rest
 stavropol.putany.xxx
 stavropoldip.ru
-stazhraboty.info
 sterlitamak.prostitutki.farm
 sterlitamak.prostitutki.toys
 stikdekor.ru
@@ -14125,7 +14103,6 @@ welcometoazart.com
 wellbet.ru
 western35.biz
 whatsmyip.ru
-white-magnet.ru
 whitedolina.biz
 whsports.click
 whsports.online
@@ -16548,7 +16525,6 @@ www2.parimatchwin7.com
 www2.parimatchwin8.com
 www2.pmbet.biz
 www2.tex-osmotr-avto.ru
-www2.vipfonbet.ru
 www2.zerkalo-bk.com
 www24.aaxe.ru
 www24.betcity.ru.com
@@ -16853,7 +16829,6 @@ yakutsk-soli-amfetamin.promtek-irk.ru
 yar-dosug.com
 yar.schetchik-m.ru
 yardosug.com
-yaroslavl-diplom-kupit.ru
 yaroslavl-diplom.com
 yaroslavl.prostitutki.farm
 yaroslavl.prostitutki.la
@@ -16862,7 +16837,6 @@ you-prava.com
 you-tube.one
 youdosug.net
 young-beach.com
-young-beauty.ru
 young.nnlopics.com
 younggirlnudists.com
 youngpornteens.top
@@ -16874,7 +16848,6 @@ youzenit.win
 yp734xc.olimpbook.lol
 ytvideos.download
 yukonavto.ru
-yuliapolyakova.ru
 yummyvape.ru
 yun.complife.ru
 yupiter.space
@@ -16892,7 +16865,6 @@ zakaz.smokedforum.net
 zakaz.zagovor.info
 zakazat-spays-kirovsk.tn2.biz
 zakazhidiplom.com
-zakazpasport.ru
 zakladchik-krasnoyarsk.ritte.biz
 zakladchik-kursk.envac.biz
 zakladchik-magnitogorsk.envac.biz
@@ -16934,7 +16906,6 @@ zarabotainadivane.net
 zarabotat-online.net
 zarabotok-wsem.ru
 zasadimne.com
-zavisimnet.ru
 zaycev-tut.ru
 zdorovie-dar.ru
 zed291bert83i1ol0.bmkolimp.website
