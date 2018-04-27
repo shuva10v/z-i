@@ -179,6 +179,7 @@
 13.78.89.4
 13.82.30.90
 13.82.80.204
+13.84.160.236
 13.84.202.245
 13.84.207.147
 13.88.11.234
@@ -1164,6 +1165,7 @@
 47.254.135.234
 47.254.144.167
 47.254.145.156
+47.254.145.163
 47.254.145.18
 47.254.146.149
 47.254.147.114
@@ -1361,6 +1363,7 @@
 52.171.34.117
 52.171.51.232
 52.171.54.231
+52.172.55.3
 52.172.55.85
 52.173.185.118
 52.174.194.69
@@ -3599,6 +3602,7 @@ blizzard.gg
 blogsochi.ru
 blogtravokur.com
 bm-mall.com.ua
+bm.wtf
 bmirrors.ru
 bmkolimp.online
 bnspra.ru
@@ -15912,6 +15916,7 @@ www.shaman-r.com.legalnyye-narkotiki-sol-dlya-vann-dzhiviash.reagenty-kuritelnyy
 www.shaman-r.net.legalnyye-narkotiki-sol-dlya-vann-dzhiviash.reagenty-kuritelnyye-smesi-geroin-efedrin-metadon-lsd-mdma-jwh.biz
 www.shaman-r.ru
 www.shaman-r.ru.legalnyye-narkotiki-sol-dlya-vann-dzhiviash.reagenty-kuritelnyye-smesi-geroin-efedrin-metadon-lsd-mdma-jwh.biz
+www.shareclip.net
 www.shop-diplom3.com
 www.shuot-2406.ru
 www.sibbet.net
