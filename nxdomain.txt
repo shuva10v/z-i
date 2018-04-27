@@ -153,6 +153,7 @@
 128.199.52.107
 12sporting.30bet.site
 13-250-40-134.ap-southeast-1.compute.amazonaws.com
+13.65.91.85
 13.66.49.241
 13.68.108.57
 13.68.78.209
@@ -1415,6 +1416,7 @@
 52.235.19.52
 52.235.20.26
 52.235.20.59
+52.235.21.121
 52.235.22.218
 52.235.22.220
 52.235.23.72
@@ -3435,6 +3437,7 @@ bkfonbet-11.su
 bkfonbet-12.su
 bkfonbet-13.su
 bkfonbet-14.su
+bkfonbet-15.su
 bkfonbet-19.su
 bkfonbet-2.su
 bkfonbet-29.ru
@@ -11082,7 +11085,6 @@ pslan.com
 psplanernaya.ru
 psychonaut.ml
 psycode.ml
-psyguru.ml
 psyone.tk
 psyplants.ru
 psytime.ml
@@ -15330,6 +15332,7 @@ www.mydiplom-msk.com
 www.myfonbetzerkalo.ru
 www.mylazaret.com
 www.mytiny.ru
+www.myzakazz.com
 www.myzenit.win
 www.nabdiplom.ru
 www.nadom-alco.com
