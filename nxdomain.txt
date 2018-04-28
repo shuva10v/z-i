@@ -180,6 +180,7 @@
 13.84.154.89
 13.84.160.236
 13.84.207.147
+13.84.213.105
 13.88.11.234
 13.88.189.166
 13.90.227.132
@@ -290,6 +291,7 @@
 191.101.164.17
 191.101.165.203
 191.232.179.116
+191.232.35.71
 191.232.38.146
 191.235.80.158
 191.235.84.232
@@ -6745,6 +6747,7 @@ kinorun.com
 kinosee.net
 kinoxa720.ru
 kinozal.hiex.ru
+kinozlo.com
 kirov-dip.ru
 kirov-dosug.info
 kirov-prostitutki.info
@@ -14273,6 +14276,7 @@ wwt2.pmbet.biz
 wwt2.pmvip.club
 wwt2.pmvipclub.com
 wwu.mp3-tut.biz
+www-24dd.biz
 www-legalrc.biz
 www.0gdz.ru
 www.10betru.com
@@ -14684,6 +14688,7 @@ www.bukmekerskie-kontory.ru
 www.bukmekerskiekontoryonlayn.ru
 www.bukvaved.biz
 www.bukvaved.net
+www.bumer.org
 www.buxiugangm.com
 www.bwinner365.com
 www.byhalko.com
