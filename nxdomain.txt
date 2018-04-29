@@ -200,6 +200,7 @@
 13.91.121.202
 13.91.124.14
 13.91.226.146
+13.91.34.106
 13.91.36.216
 13.91.38.98
 13.91.82.107
@@ -1408,6 +1409,7 @@
 52.166.50.166
 52.166.54.176
 52.168.11.111
+52.168.110.31
 52.169.221.178
 52.17.131.158
 52.170.152.173
@@ -12189,7 +12191,9 @@ sfinkss.com
 sgd-3t-g4.ostanovi-schetchik.ru
 sgmn-g6.stop-schetchik.ru
 shaherezada72.ru
+shaman-by.com.0o0o0.ru
 shaman-r.ru
+shaman-r.ru.0o0o0.ru
 shaman-r.ru.legalnyye-narkotiki-sol-dlya-vann-dzhiviash.reagenty-kuritelnyye-smesi-geroin-efedrin-metadon-lsd-mdma-jwh.biz
 shaman24.ru
 shamanrc.ru
@@ -15433,6 +15437,7 @@ www.shaman-r.com.legalnyye-narkotiki-sol-dlya-vann-dzhiviash.reagenty-kuritelnyy
 www.shaman-r.com.legalnyye-narkotiki-sol-dlya-vann-dzhiviash.reagenty-kuritelnyye-smesi-geroin-efedrin-metadon-lsd-mdma-jwh.biz
 www.shaman-r.net.legalnyye-narkotiki-sol-dlya-vann-dzhiviash.reagenty-kuritelnyye-smesi-geroin-efedrin-metadon-lsd-mdma-jwh.biz
 www.shaman-r.ru
+www.shaman-r.ru.0o0o0.ru
 www.shaman-r.ru.legalnyye-narkotiki-sol-dlya-vann-dzhiviash.reagenty-kuritelnyye-smesi-geroin-efedrin-metadon-lsd-mdma-jwh.biz
 www.shareclip.net
 www.shop-diplom3.com
