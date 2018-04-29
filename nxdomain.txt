@@ -1367,6 +1367,7 @@
 52.138.205.71
 52.140.100.197
 52.148.81.197
+52.148.83.26
 52.151.73.187
 52.151.77.251
 52.151.9.79
@@ -5986,7 +5987,6 @@ getmpc9.com
 getspiffy.ru
 gigamir.net
 gigawatts.net.ru
-gigpornodojki.biz
 girls-33.com
 girls-73.com
 girls-pics.ru
@@ -6648,7 +6648,6 @@ klad.ch
 klad.sx
 klad24-ekb.ru
 klad24.cc
-klad24.net
 klad24.org
 klad48.cn
 klad4u.biz
@@ -6842,7 +6841,6 @@ kupit-diplom-v-samare.ru
 kupit-diplom-v-smolenske.ru
 kupit-diplom-v-stavropole.ru
 kupit-diplom-v-tveri.ru
-kupit-diplom-v-tyumeni.ru
 kupit-diplom-v-ulan-ude.ru
 kupit-diplom-v-volgograde.ru
 kupit-diplom-v-voronezhe.ru
