@@ -229,6 +229,7 @@
 149.129.129.116
 149.129.131.37
 149.129.133.105
+149.129.134.121
 149.129.134.124
 149.202.17.160
 149.202.17.161
@@ -1245,6 +1246,7 @@
 47.254.42.230
 47.254.65.37
 47.254.66.54
+47.254.67.242
 47.254.67.83
 47.254.68.241
 47.254.69.210
@@ -5340,6 +5342,7 @@ fonbets-info3.su
 fonbets-info7.su
 fonbets-online.su
 fonbets-online2.su
+fonbets-online3.su
 fonbets-online5.su
 fonbets.online
 fonbets.su
@@ -13014,6 +13017,7 @@ telki.co
 telzakaz.ru
 tesak.org
 test.bezumnyyshlyapnik.ru
+test2.plusminus1.com
 tfile-torrent.info
 tg.maclikbez.ru
 tglink1.profile.www.service.rkngov.top
@@ -14285,6 +14289,7 @@ www.casinomidas.jp
 www.casinomidas.lt
 www.casinomidas.ru
 www.casinomidas.se
+www.casinomidasfrance.com
 www.casinomira1.com
 www.casinopower.co.uk
 www.casinopromo.pro
