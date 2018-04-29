@@ -168,6 +168,7 @@
 13.71.20.53
 13.71.22.165
 13.71.23.75
+13.71.25.23
 13.71.26.94
 13.71.29.144
 13.71.31.139
@@ -1273,6 +1274,7 @@
 47.74.5.249
 47.74.7.235
 47.74.9.52
+47.89.241.159
 47.89.249.191
 47.91.104.19
 47.91.105.134
@@ -1349,6 +1351,7 @@
 51.141.81.181
 51.141.83.17
 51.141.83.249
+51.141.84.182
 51.141.84.200
 51.141.84.217
 51.141.86.5
@@ -3667,7 +3670,6 @@ blizzard.gg
 blogsochi.ru
 blogtravokur.com
 bm-mall.com.ua
-bm.wtf
 bmirrors.ru
 bmkolimp.online
 bnspra.ru
@@ -13266,6 +13268,7 @@ uly.schetchik-m.ru
 ulyanovsk.best-hot.com
 ulyanovsk.prostitutki.la
 ulyanovsk.putany.xxx
+undefined.hostname.localhost
 undos.ru
 uniq.adv.bkfind.space
 up-2-money.ru
