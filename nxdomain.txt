@@ -880,6 +880,7 @@
 2.fon1.bet
 20.184.14.191
 20.184.15.57
+20.184.8.62
 20.188.103.58
 20.188.106.200
 20.300kbit.pw
@@ -1271,6 +1272,7 @@
 47.254.38.124
 47.254.42.230
 47.254.65.37
+47.254.66.107
 47.254.66.16
 47.254.66.54
 47.254.67.242
@@ -1415,6 +1417,7 @@
 52.151.24.178
 52.151.34.204
 52.151.73.187
+52.151.75.231
 52.151.77.251
 52.151.9.79
 52.16.13.76
@@ -12604,6 +12607,7 @@ spb.telki.co
 spb.x-sexy.com
 spbdocstroy.com
 spbseeds.shop
+specservice.xyz
 speedliner24.biz.af
 speednn.ru
 spektrtorg.ru
@@ -15093,7 +15097,6 @@ www.noxwin77.com
 www.nsk-dip.net
 www.nskfei.org
 www.obhodbloka.xyz
-www.oblastmed.ru
 www.odni-5.ru
 www.okjhnfmro.com
 www.olicash.pro
