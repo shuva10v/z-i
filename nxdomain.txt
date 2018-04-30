@@ -111,6 +111,7 @@
 104.211.246.109
 104.215.13.165
 104.215.15.110
+104.215.18.19
 104.215.18.253
 104.215.18.30
 104.215.21.144
@@ -12431,6 +12432,7 @@ slotobar7.com
 slotobar8.com
 slotobet.top
 slotodom.net
+slotodom.online
 slotodom.site
 slotodomik.club
 slotodomik.com
