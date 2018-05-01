@@ -1328,6 +1328,7 @@
 47.91.109.211
 47.91.16.110
 47.91.16.133
+47.91.17.119
 47.91.23.208
 47.91.28.85
 47.91.31.142
@@ -1488,6 +1489,7 @@
 52.172.55.85
 52.173.150.101
 52.173.185.118
+52.174.191.34
 52.174.194.69
 52.174.253.70
 52.175.11.134
@@ -6268,6 +6270,7 @@ hdsex.tv
 heavendrugs.ru
 hedrook.vho.org
 help-2ndfl.ru
+help-docs.com
 help-olimp.com
 help-prava.su
 helpik.24x7olimp.link
@@ -6295,6 +6298,7 @@ himdom.com
 hitmuzika.ru
 home.sesbet.com
 home3.betrebels.com
+host122-28-211-80.serverdedicati.aruba.it
 host59-226-177-94.static.arubacloud.de
 hot-voronezh.com
 hotautomaty.com
@@ -6352,6 +6356,7 @@ igracasino.org
 igraibesplatno.com
 igrat-casino-admiral.com
 igrat-nadengy.com
+igrat-slot.ru
 igravadmiral.com
 igravyeavtomaty.com
 igro-men.ru
@@ -10862,7 +10867,6 @@ prostitutki-ryazani.ahmurki.ru
 prostitutki-ryazani.tvoikiski.ru
 prostitutki-salon.ru
 prostitutki-samara.biz
-prostitutki-samary.ahmurki.ru
 prostitutki-samary.info
 prostitutki-samary.org
 prostitutki-samary.ru
@@ -12586,6 +12590,7 @@ smbet.ru
 smbets.ru
 smoke-store.biz
 smoking24.ru
+smolensk-list.net
 smolensk.mirdosuga.info
 smolensk.prostitutki.rest
 smolensk.prostitutki24.casa
