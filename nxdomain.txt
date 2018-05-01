@@ -1436,6 +1436,7 @@
 51.145.153.103
 51.145.154.243
 51.145.25.0
+51.145.29.249
 51.145.29.96
 51.145.30.231
 51.145.30.46
@@ -3766,7 +3767,6 @@ blacknika.ru
 blackstarrc.biz.af
 bladeshow.ru
 blakcstarrc.biz
-blizzard.gg
 blogsochi.ru
 blogtravokur.com
 bm-mall.com.ua
@@ -12288,6 +12288,7 @@ sexnsk.de
 sexodosug.ru
 sexoid.net
 sexonsk.love
+sexonsk.xxx
 sexovolg.xxx
 sexportal.city
 sexportal.site
