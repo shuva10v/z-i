@@ -113,6 +113,7 @@
 104.211.191.41
 104.211.246.109
 104.215.13.165
+104.215.14.77
 104.215.15.110
 104.215.16.41
 104.215.18.19
@@ -1191,6 +1192,7 @@
 40.71.254.104
 40.79.56.17
 40.79.59.140
+40.91.199.104
 400fa1.olimp656f.top
 403116.olimp786f.top
 40390e.olimp876c.site
@@ -1420,6 +1422,7 @@
 51.141.86.5
 51.141.87.231
 51.141.87.86
+51.141.88.68
 51.141.89.117
 51.141.91.104
 51.141.91.94
@@ -3092,6 +3095,7 @@ azartplay.igryflash.com
 azartplay.kazino.link
 azartplay.men
 azartplay.red
+azartplay.run
 azartplay.site
 azartplay.su
 azartplay1.space
@@ -6590,7 +6594,6 @@ japs.bid
 jaroslavl-dip.ru
 jeroboams.ru
 jet-case.com
-jet-cash.pro
 jetbull001.com
 jetcash.in
 jetcash.me
