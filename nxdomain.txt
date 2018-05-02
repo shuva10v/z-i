@@ -129,6 +129,7 @@
 104.41.42.25
 104.41.58.141
 104.42.171.32
+104.42.58.37
 108.174.63.110
 108a4a.olimp16e5.top
 109.200.0.100
@@ -13275,6 +13276,7 @@ telki.club
 telki.co
 telzakaz.ru
 tesak.org
+test2.plusminus1.com
 test3.plusminus1.com
 tfile-torrent.info
 tg.maclikbez.ru
