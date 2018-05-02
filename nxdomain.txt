@@ -233,6 +233,7 @@
 13.91.97.166
 13.92.141.137
 13.93.167.153
+13.94.47.251
 13.94.58.89
 130.185.148.11
 130.185.148.73
@@ -12618,7 +12619,6 @@ slavaangel.com
 slavaangel.ru
 slem-bro.ru
 slidetour.ru
-sliunkitekut.ru
 slivki.cc
 slot-ru.com
 slot-voyager.best-kazino.com
