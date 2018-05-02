@@ -1400,6 +1400,7 @@
 47.90.254.96
 47.91.104.19
 47.91.104.208
+47.91.104.28
 47.91.105.134
 47.91.105.200
 47.91.105.81
@@ -1560,6 +1561,7 @@
 52.151.38.169
 52.151.73.174
 52.151.73.187
+52.151.74.116
 52.151.75.231
 52.151.77.251
 52.151.88.13
@@ -1884,6 +1886,7 @@
 70w.olimp24x7.top
 712c41.olimp6753.top
 71652e.olimp31d2.top
+71d9c8.olimp31d2.top
 72.kiski.us
 720af8.olimp6753.top
 720kinogo.net
@@ -4335,6 +4338,8 @@ casino-valley.com
 casino-velkam4.co
 casino-velkam5.co
 casino-velkam6.co
+casino-velkam8.co
+casino-velkam9.co
 casino-vulcan.club
 casino-vulcan.net
 casino-vulkan-rus.ru
