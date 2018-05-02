@@ -109,6 +109,7 @@
 104.211.180.26
 104.211.181.114
 104.211.184.72
+104.211.185.186
 104.211.186.108
 104.211.187.200
 104.211.188.83
@@ -11895,6 +11896,7 @@ ru.leonbet.info
 ru.leonbets11.ru
 ru.leonbets23.ru
 ru.leonboss.com
+ru.leoncsgo.com
 ru.leongambit.net
 ru.leongang.com
 ru.leonhit.com
