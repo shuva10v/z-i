@@ -1263,6 +1263,7 @@
 47.252.0.104
 47.254.128.96
 47.254.129.101
+47.254.131.236
 47.254.132.82
 47.254.133.18
 47.254.133.195
@@ -1359,6 +1360,7 @@
 47.74.9.52
 47.89.241.159
 47.89.249.191
+47.90.241.22
 47.91.104.19
 47.91.104.208
 47.91.105.134
@@ -1449,6 +1451,7 @@
 51.141.80.110
 51.141.80.220
 51.141.80.223
+51.141.81.134
 51.141.81.181
 51.141.83.17
 51.141.83.249
@@ -1898,7 +1901,6 @@
 7aa7be.olimp876c.site
 7b1a58.olimp656f.top
 7bbc56.olimpd9f7.top
-7bets.ru
 7bf01f.olimpb24d.gdn
 7c2c3d.olimpb24d.gdn
 7c63a9.olimp6b96.top
@@ -6774,7 +6776,6 @@ kasyna-internetowe.net.pl
 katalog.stop-schetchik.ru
 kavkazcenter.info
 kazak-mo.ru
-kazan-7465-66.plitkovoz.ru
 kazan-dip.ru
 kazan.intimlive.net
 kazan.prostitutki.rest
@@ -14731,7 +14732,6 @@ www.faraonwin.ru
 www.fast.alkodostavka.com
 www.fast24.biz
 www.favbetonline.com
-www.favor.drolybet.com
 www.federativmix.com
 www.feispb.com
 www.feo-fan.biz
