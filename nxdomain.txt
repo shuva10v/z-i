@@ -204,6 +204,7 @@
 13.77.83.102
 13.78.117.192
 13.78.129.242
+13.78.130.137
 13.78.130.71
 13.78.132.128
 13.78.83.27
@@ -759,7 +760,6 @@
 1xsparts.space
 1xspirt.com
 1xspk.xyz
-1xsplrt.com
 1xsplrt.mobi
 1xsplrt.space
 1xspo4t.mobi
@@ -831,7 +831,6 @@
 1xsportz.mobi
 1xspory.com
 1xspory.mobi
-1xsporz.com
 1xsporz.mobi
 1xspot.mobi
 1xspots.xyz
@@ -1364,6 +1363,8 @@
 47.74.14.59
 47.74.15.142
 47.74.15.241
+47.74.20.139
+47.74.4.235
 47.74.5.249
 47.74.7.134
 47.74.7.235
@@ -1545,6 +1546,7 @@
 52.161.162.64
 52.163.119.23
 52.163.121.209
+52.165.227.7
 52.165.229.97
 52.166.50.108
 52.166.50.166
@@ -1705,6 +1707,7 @@
 52.237.29.110
 52.237.9.254
 52.240.138.90
+52.242.27.163
 52.242.30.192
 52.242.37.113
 52.242.39.76
@@ -3066,6 +3069,7 @@ autolax.ru
 automotodrive.org
 autotimerf.biz
 avdd-spb.ru
+avinfo.me
 avonsochi.ru
 avto-cervic.ru
 avto-prava.com
@@ -4887,7 +4891,6 @@ djrys.ru
 dk-drugba.ru
 dkstyle.ru
 dlp.adaopo.com
-dlp.pkruc.com
 dlp.spobr.com
 dlp.tb-rux.com
 dlp.tnruc.com
@@ -8761,7 +8764,6 @@ m.zenitbet62.win
 m.zenitbet63.win
 m.zenitbet64.win
 m.zenitbet65.win
-m.zenitbet66.com
 m.zenitbet66.win
 m.zenitbet67.win
 m.zenitbet68.win
@@ -9726,7 +9728,6 @@ musik-play.ru
 mutki.biz.af
 mutki.space
 muz4me.space
-muzokach.com
 muzon.ga
 mx-diplom.ru
 my-army.ru
@@ -10065,12 +10066,10 @@ newadmiralcc.com
 newalkogol.com
 newatxbet.com
 newaxxbet.com
-newazxbet.com
 newdevki.com
 newdiplomy.net
 newelxbet.com
 newezxbet.com
-newftrxbet.com
 newl2r.ru
 newmagnet.ru
 newmagnetlife.ru
@@ -10140,13 +10139,10 @@ news.parimatchwin5.com
 news.parimatchwin6.com
 news.parimatchwin7.com
 news.parimatchwin8.com
-newsfgxbet.com
 newsjkh.ru
 newslotodom.com
 newslotx.org
 newvulkan.org
-newylxbet.com
-newyzxbet.com
 newzenit.info
 newzerkalobet36.space
 nfs24.net
