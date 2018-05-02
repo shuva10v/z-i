@@ -179,6 +179,7 @@
 13.71.18.95
 13.71.19.223
 13.71.19.50
+13.71.19.58
 13.71.20.18
 13.71.20.228
 13.71.20.40
@@ -1435,6 +1436,7 @@
 51-15-19-140.rev.poneytelecom.eu
 51.136.11.165
 51.136.11.7
+51.140.136.250
 51.141.224.146
 51.141.226.174
 51.141.227.84
@@ -4507,6 +4509,7 @@ copimobile.ru
 cordaodeouro.ru
 cosmocard.pro
 cosmocard.site
+cosmocash.xyz
 counter-stop.com
 cport1x.com
 cprawka.ru
@@ -14732,6 +14735,7 @@ www.faraonwin.ru
 www.fast.alkodostavka.com
 www.fast24.biz
 www.favbetonline.com
+www.favor.drolybet.com
 www.federativmix.com
 www.feispb.com
 www.feo-fan.biz
