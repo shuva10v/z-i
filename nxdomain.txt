@@ -1311,6 +1311,7 @@
 47.254.145.163
 47.254.145.18
 47.254.145.67
+47.254.145.89
 47.254.146.149
 47.254.147.114
 47.254.147.204
@@ -13395,6 +13396,7 @@ telki.club
 telki.co
 telzakaz.ru
 tesak.org
+test1.plusminus1.com
 test2.plusminus1.com
 test3.plusminus1.com
 tfile-torrent.info
