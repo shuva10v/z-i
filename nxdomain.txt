@@ -997,6 +997,7 @@
 22zenit.info
 22zenit.win
 23.100.74.81
+23.100.76.106
 23.102.239.124
 23.96.236.71
 23.96.253.241
@@ -13001,6 +13002,7 @@ spravka-bistro.ru
 spravka-legko.com
 spravka24.net
 spravkabassein.ru
+spravkaodoxodax.biz
 spravkazdes177.ru
 spravki-24.com
 spravki-24.ru
