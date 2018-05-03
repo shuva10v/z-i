@@ -425,6 +425,7 @@
 1x-sp-34.com
 1x-sport-bk.com
 1x-sport-bk1.com
+1x-sport-bk3.com
 1x-sport-bk5.com
 1x-sport-bk6.com
 1x-sport-bk7.com
@@ -1395,6 +1396,7 @@
 47.74.13.223
 47.74.14.112
 47.74.14.59
+47.74.14.78
 47.74.15.142
 47.74.15.241
 47.74.20.139
@@ -2774,6 +2776,7 @@ alcomir54.ru
 alconight.info
 alconight.su
 alcopoker.ru
+alcopostavka.com
 alcoprice.me
 alcoprofy.com
 alcoprofy.ru
@@ -9086,6 +9089,7 @@ medkniga-saratov.ru
 medkniga-tumen.ru
 medkniga-ufa.ru
 medkniga-voronezh.ru
+medknigka-saratov.com
 medknigka54.ru
 medknizhka-nn.ru
 medserviceplus.ru
@@ -14188,6 +14192,7 @@ www.1prostitutka.ru
 www.1spravka.org
 www.1x-sport-bk.com
 www.1x-sport-bk1.com
+www.1x-sport-bk3.com
 www.1x-sport-bk4.com
 www.1x-sport-bk5.com
 www.1x-sport-bk6.com
