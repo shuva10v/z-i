@@ -434,6 +434,7 @@
 1x-turkey.com
 1x-turkey1.com
 1x-turkey2.com
+1x-turkey4.com
 1x1514.com
 1x1515.com
 1x1517.com
@@ -1343,6 +1344,7 @@
 47.254.149.90
 47.254.150.153
 47.254.150.195
+47.254.150.211
 47.254.150.224
 47.254.150.233
 47.254.150.50
@@ -4748,6 +4750,7 @@ devonkitut.ru
 devushki-individualki-73.ru
 devushkigud.ru
 df61a1.olimpef97.site
+dial-78-141-104-67.orange.sk
 diamondbestshop.com
 diamondrc.biz
 didfotu.ru
