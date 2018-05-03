@@ -133,6 +133,7 @@
 104.215.42.25
 104.239.72.107
 104.239.72.147
+104.239.72.184
 104.239.72.54
 104.41.42.25
 104.41.58.141
@@ -216,6 +217,7 @@
 13.78.130.137
 13.78.130.71
 13.78.132.128
+13.78.134.215
 13.78.83.27
 13.78.88.79
 13.78.89.4
@@ -15903,7 +15905,6 @@ www.shaman-r.net.legalnyye-narkotiki-sol-dlya-vann-dzhiviash.reagenty-kuritelnyy
 www.shaman-r.ru
 www.shaman-r.ru.0o0o0.ru
 www.shaman-r.ru.legalnyye-narkotiki-sol-dlya-vann-dzhiviash.reagenty-kuritelnyye-smesi-geroin-efedrin-metadon-lsd-mdma-jwh.biz
-www.shareclip.net
 www.shop-diplom3.com
 www.shuot-2406.ru
 www.sibbet.net
