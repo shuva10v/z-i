@@ -1421,6 +1421,7 @@
 47.74.4.235
 47.74.4.49
 47.74.5.249
+47.74.6.88
 47.74.66.8
 47.74.7.134
 47.74.7.235
@@ -4384,7 +4385,6 @@ casino-velkam5.co
 casino-velkam6.co
 casino-velkam7.co
 casino-velkam8.co
-casino-velkam9.co
 casino-vulcan.club
 casino-vulcan.net
 casino-vulkan-rus.ru
@@ -7435,6 +7435,7 @@ kupit-spice-perm.envac.biz
 kupit-spice-sochi.clipi.biz
 kupit-spice-surgut.miap.biz
 kupit-spice-vologda.clipi.biz
+kupit-spice.ml
 kupit-svidetelstva.com
 kupit-voronej-spajs.paricprestige.ru
 kupit-zakladkoymiass.x4y.biz
@@ -11949,6 +11950,7 @@ ru.leonbet.info
 ru.leonbets11.ru
 ru.leonbets23.ru
 ru.leonboss.com
+ru.leoncomedy.com
 ru.leoncsgo.com
 ru.leongambit.net
 ru.leongang.com
