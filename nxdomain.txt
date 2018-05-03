@@ -1324,6 +1324,7 @@
 47.254.148.208
 47.254.148.213
 47.254.148.234
+47.254.148.240
 47.254.148.242
 47.254.148.250
 47.254.148.70
@@ -11216,7 +11217,10 @@ pscorp.ru
 pslan.com
 psplanernaya.ru
 psychonaut.ml
+psycode.ml
+psyguru.ml
 psyone.tk
+psytime.ml
 pt.adv.bkfind.space
 ptip24biz.ml
 ptzreklama.ru
@@ -12932,6 +12936,7 @@ sport-1x-bk2.com
 sport-1x-bk4.com
 sport-1x-bk8.com
 sport-in-fon.cf
+sport-in-fon.tk
 sport-pit.net
 sport-xbet.com
 sport-zenit.org
@@ -13371,6 +13376,7 @@ telki.club
 telki.co
 telzakaz.ru
 tesak.org
+test2.plusminus1.com
 test3.plusminus1.com
 tfile-torrent.info
 tg.maclikbez.ru
@@ -15047,6 +15053,7 @@ www.globaltrafik.ch
 www.glocsales.com
 www.glyki.biz
 www.gnb-kurgan.ru
+www.goahxkpwfg.ml
 www.gold-den.com
 www.gold-rain.net
 www.goldenshara.org
