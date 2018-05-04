@@ -1245,6 +1245,8 @@
 47.254.151.64
 47.254.151.69
 47.254.151.75
+47.254.152.103
+47.254.152.204
 47.254.152.22
 47.254.152.36
 47.254.152.52
@@ -1275,6 +1277,7 @@
 47.254.69.210
 47.254.69.213
 47.254.70.155
+47.254.74.124
 47.74.10.172
 47.74.10.68
 47.74.10.95
@@ -1338,6 +1341,7 @@
 47.91.28.85
 47.91.31.142
 47.91.31.162
+47.91.31.79
 471dab.olimp3043.top
 473572.olimp31d2.top
 47b5ba.olimpfc65.top
@@ -3482,7 +3486,6 @@ bets.betinfon.org
 bets.betsfon.net
 bets.betsfon.org
 bets.bkfonbetsport.com
-bets.bkfonbetsports.com
 bets.bkfonbetsports.org
 bets.bkfongame.com
 bets.bkfonsport.club
@@ -10988,7 +10991,6 @@ putana-x.ru
 putanarus.com
 putanarus.info
 putanarus.net
-putani-online.ru
 putanialt.ru
 putany-777.ru
 putany-vip.ru
@@ -11047,7 +11049,6 @@ racing.bkfonbetsport.cf
 racing.bkfonbetsport.com
 racing.bkfonbetsport.tk
 racing.bkfonbetsports.cf
-racing.bkfonbetsports.com
 racing.bkfonbetsports.org
 racing.bkfonbetsports.tk
 racing.bkfongame.com
@@ -13059,7 +13060,6 @@ t6.getanaccess.com
 tabacoshop.ru
 tabak-gr.ru
 tabakdostavka.ru
-tabakexpress.ru
 talkfriday.ru
 tambov.best-hot.com
 tambov.prostitutki.ooo
