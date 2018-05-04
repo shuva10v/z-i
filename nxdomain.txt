@@ -1189,6 +1189,7 @@
 47.254.147.252
 47.254.147.64
 47.254.147.87
+47.254.147.91
 47.254.148.115
 47.254.148.133
 47.254.148.147
@@ -11680,7 +11681,6 @@ ru.leonbet.info
 ru.leonbets11.ru
 ru.leonbets23.ru
 ru.leonboss.com
-ru.leoncomedy.com
 ru.leoncsgo.com
 ru.leongambit.net
 ru.leongang.com
@@ -11689,6 +11689,7 @@ ru.leonjoker.com
 ru.leonkhan.com
 ru.leonmagnat.com
 ru.leonmega.com
+ru.leonnord.com
 ru.leonpin.com
 ru.leonsite.com
 ru.leonsite.net
