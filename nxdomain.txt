@@ -1223,6 +1223,7 @@
 47.254.150.151
 47.254.150.153
 47.254.150.195
+47.254.150.203
 47.254.150.211
 47.254.150.224
 47.254.150.233
@@ -1296,6 +1297,7 @@
 47.74.15.234
 47.74.15.241
 47.74.16.85
+47.74.17.167
 47.74.20.139
 47.74.20.57
 47.74.4.235
@@ -1422,6 +1424,7 @@
 51.141.84.182
 51.141.84.200
 51.141.84.217
+51.141.86.153
 51.141.86.5
 51.141.87.231
 51.141.87.86
@@ -3115,7 +3118,6 @@ azartplay-vip.club
 azartplay-vipigra.top
 azartplay.best-kazino.com
 azartplay.casino-rate.com
-azartplay.co
 azartplay.gold
 azartplay.igryflash.com
 azartplay.kazino.link
@@ -4171,8 +4173,6 @@ cas.mirror2.bookolimp.xyz
 cas.mirror2.olimp24x7.bid
 cas.mirror9.olimpbook.website
 cas.olimpmirror.olimp24x7.win
-cas.olimpmirror01.bmkolimp.online
-cas.olimpmirror02.bmkolimp.online
 cas.olimpmirror1.24x7olimp.lol
 cas.olimpmirror2.olimp24x7.win
 cas.zerkalo.bookolimp.bid
@@ -6373,7 +6373,6 @@ igraibesplatno.com
 igrat-casino-admiral.com
 igrat-nadengy.com
 igrat-slot.ru
-igrat.avtomat-vulkan.su
 igravyeavtomaty.com
 igro-men.ru
 igromix.top
@@ -9256,7 +9255,6 @@ mobnew.a4b0c0.olimpb24d.gdn
 mobnew.ac3053.olimp-fucks-rkn.site
 mobnew.b3ffa8.olimp6301.site
 mobnew.b4d04d.olimp6301.site
-mobnew.buisd2328nhw.bmkolimp.online
 mobnew.d467f0.olimpa2b2.gdn
 mobnew.d64f23.olimpb24d.gdn
 mobnew.dc579c.olimpb24d.gdn
@@ -9305,11 +9303,8 @@ mobnew.mirror2.bkolimp.xyz
 mobnew.mirror2.bookolimp.xyz
 mobnew.mirror2.olimp24x7.bid
 mobnew.mirror9.olimpbook.website
-mobnew.niy87365snd.bmkolimp.online
 mobnew.o1imp5it3491betw1.24x7olimp.site
 mobnew.olimpmirror.olimp24x7.win
-mobnew.olimpmirror01.bmkolimp.online
-mobnew.olimpmirror02.bmkolimp.online
 mobnew.olimpmirror1.24x7olimp.lol
 mobnew.olimpmirror2.olimp24x7.win
 mobnew.zerkalo.bookolimp.bid
@@ -9603,7 +9598,6 @@ musclemassa.ru
 musicdon.ru
 mutki.biz.af
 mutki.space
-mutki24.com
 muzon.ga
 mx-diplom.ru
 my-army.ru
@@ -9778,7 +9772,6 @@ new.f91c58.olimp98b4.top
 new.fbcc6b.olimp1cf7.top
 new.gdew8972uyds.bmkolimp.online
 new.hizb.org.ua
-new.jiodf267dfio.bmkolimp.online
 new.m1rror11.olimpbook.website
 new.midn403ight502er2.olimpbk.bid
 new.mirror.bkolimp.online
@@ -9819,8 +9812,6 @@ new.mirror9.olimpbook.website
 new.niy87365snd.bmkolimp.online
 new.o1imp5it3491betw1.24x7olimp.site
 new.olimpmirror.olimp24x7.win
-new.olimpmirror01.bmkolimp.online
-new.olimpmirror02.bmkolimp.online
 new.olimpmirror1.24x7olimp.lol
 new.olimpmirror2.olimp24x7.win
 new.pari-matchbet.com
@@ -10178,7 +10169,6 @@ olimphelp.com
 olimphelp.xyz
 olimpmirror.olimp24x7.win
 olimpmirror01.bmkolimp.online
-olimpmirror02.bmkolimp.online
 olimpmirror1.24x7olimp.lol
 olimpmirror2.olimp24x7.win
 olimpt-6.info
@@ -13338,7 +13328,6 @@ ulyanovsk.putany.xxx
 undefined.hostname.localhost
 undos.ru
 uniq.adv.bkfind.space
-up-2-money.ru
 up-2money.ru
 up-coin.ru
 up-money.win
@@ -13985,7 +13974,6 @@ www.4444zenit.win
 www.444zenit.win
 www.44zenit.win
 www.4kiss.me
-www.4pmobzor.top
 www.4zenit.win
 www.51azino777.win
 www.5201x-bk.com
@@ -14392,6 +14380,7 @@ www.chita.prostitutki.rest
 www.chitay.org
 www.chokhthikhasino.com
 www.chpok-prostitutki.ru
+www.cigdemmobilya.com
 www.cinemax.by
 www.cityamcasino.com
 www.clips.org.ua
@@ -15814,8 +15803,6 @@ www.urodoknet.ru
 www.utteri-official.ru
 www.valuebet.info
 www.vam-spravku.ru
-www.vandime.ru
-www.varkapiva.ru
 www.vdiplome.net
 www.vecherkom.com
 www.vegas-slot.org
@@ -16716,7 +16703,6 @@ zerkala-bukmekerskikh-kontor.ru
 zerkalabuk.ru
 zerkalabukmeker-marafon992.website
 zerkalabukmekerov.com
-zerkalabukmekerov.ru
 zerkalo-1bet.ru
 zerkalo-1xbet.com
 zerkalo-1xbet.site
@@ -16781,7 +16767,6 @@ zerkalo01.ru
 zerkalo02.olimpbook.click
 zerkalo02.ru
 zerkalo1.vulkan-gamez.com
-zerkalo10.ru
 zerkalo100.ru
 zerkalo1000.ru
 zerkalo101.ru
