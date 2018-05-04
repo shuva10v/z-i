@@ -1435,6 +1435,7 @@
 47.74.7.134
 47.74.7.235
 47.74.7.28
+47.74.8.166
 47.74.9.116
 47.74.9.52
 47.89.241.159
@@ -15103,7 +15104,6 @@ www.ikino.su
 www.imgradus.ru
 www.imperiya-alcogolya.com
 www.indi-krasnodar.info
-www.individualki-ufa.club
 www.individualkimoskvy.org
 www.infobookmakers2016.com
 www.inpkr.com
