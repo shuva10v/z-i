@@ -1164,6 +1164,7 @@
 47.252.15.39
 47.252.15.98
 47.252.5.41
+47.254.128.183
 47.254.128.193
 47.254.128.96
 47.254.129.101
@@ -3075,7 +3076,6 @@ avtomatix.org
 avtomatix.party
 avtomatix.pro
 avtomatix.top
-avtomatix.win
 avtomats.igravyeavtomaty.com
 avtomaty-admiral.co
 avtomaty-na-dengi.org
@@ -3100,7 +3100,6 @@ azart-play-casino.info
 azart-play-vip.net
 azart-play.info
 azart-play.xyz
-azart-playcasino.com
 azart-system-million.com
 azart-vipspace.club
 azart-vipx.club
@@ -5039,7 +5038,6 @@ dzhojkaz.ru
 dzhojkazino.ru
 dzhoykazino.ru
 e-est.ru
-e-marketing.su
 e-morozov.ru
 e-w.biz
 e04271b6f7a5a476fd.c2ef25.56da77944fa86649b9.xyz
@@ -13707,7 +13705,6 @@ vulcano2.com
 vulcano3.com
 vulcanru.com
 vulcanslot.ru
-vulcanvipslotik.ru
 vulcanzerkalo.xyz
 vulkan-777-club.com
 vulkan-apparaty.org
@@ -16658,7 +16655,6 @@ zenit-bet.info
 zenit-bet.org
 zenit-bk.info
 zenit-bk.org
-zenit-bk.ru
 zenit-next.info
 zenit-sport.info
 zenit-sport.org
@@ -16962,7 +16958,6 @@ zerkalo454.ru
 zerkalo474.ru
 zerkalo494.ru
 zerkalo5.vulkan-gamez.com
-zerkalo50.ru
 zerkalo500.ru
 zerkalo511.ru
 zerkalo515.ru
@@ -17004,7 +16999,6 @@ zerkalo959.ru
 zerkalo985.ru
 zerkalo989.ru
 zerkalo999.ru
-zerkaloazarta.ru
 zerkalobkkontor.ru
 zerkalobukmekerskaya.ru
 zerkalodostupbk.ru
