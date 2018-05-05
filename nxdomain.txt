@@ -1066,6 +1066,7 @@
 47.252.15.39
 47.252.15.98
 47.252.5.41
+47.253.73.104
 47.254.128.183
 47.254.128.193
 47.254.128.96
@@ -1216,6 +1217,7 @@
 47.74.11.62
 47.74.12.101
 47.74.12.227
+47.74.12.92
 47.74.13.223
 47.74.13.232
 47.74.14.112
@@ -1277,6 +1279,7 @@
 47.91.16.133
 47.91.17.119
 47.91.17.24
+47.91.20.172
 47.91.23.208
 47.91.28.85
 47.91.31.142
@@ -14097,7 +14100,6 @@ www.casinomidas.jp
 www.casinomidas.lt
 www.casinomidas.ru
 www.casinomidas.se
-www.casinomidasfrance.com
 www.casinomira1.com
 www.casinopower.co.uk
 www.casinopromo.pro
@@ -15783,6 +15785,7 @@ www1.bets08.ru
 www1.fon1.bet
 www1.myzuka.me
 www1.ssra.ru
+www1.vipfonbet.ru
 www10.betcity.ru.com
 www10.bkbetcity.com
 www10.zerkalo-bk.com
