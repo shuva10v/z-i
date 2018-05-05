@@ -1240,6 +1240,7 @@
 47.254.150.219
 47.254.150.224
 47.254.150.233
+47.254.150.241
 47.254.150.250
 47.254.150.50
 47.254.150.63
@@ -1320,6 +1321,7 @@
 47.74.19.197
 47.74.20.139
 47.74.20.57
+47.74.21.92
 47.74.4.235
 47.74.4.49
 47.74.5.249
@@ -1781,6 +1783,7 @@
 62.4.11.13
 62.4.11.23
 62.4.11.27
+62.4.11.29
 62.4.11.4
 620599297.ru
 621d31.olimp4859.top
@@ -2142,14 +2145,11 @@ ac592c.olimp1960.top
 ac6b15.olimp1897.top
 acasino.me
 acc.24x7olimp.link
-access-baltplay.club
 access-baltplay.info
-access-baltplay.online
 access-baltplay.site
 access-baltplay.xyz
 access-bb.club
 access-bb.info
-access-bb.online
 access-bb.site
 access-bb.xyz
 access-fonbet.click
@@ -2521,7 +2521,6 @@ admiral.blue
 admiral.casino-rate.com
 admiral.city
 admiral777.net
-admiralbet.in
 admiralcasino.best-kazino.com
 admiralcasino.igryflash.com
 admiralcasino.lucky-man.club
@@ -3143,14 +3142,12 @@ azartplay-vip.club
 azartplay-vipigra.top
 azartplay.best-kazino.com
 azartplay.casino-rate.com
-azartplay.gold
 azartplay.igryflash.com
 azartplay.kazino.link
 azartplay.men
 azartplay.red
 azartplay.run
 azartplay.site
-azartplay.su
 azartplay1.space
 azartplay1.xyz
 azartplay100.com
@@ -13334,7 +13331,6 @@ trproekt.ru
 trralzmmwfm.xyz
 trudcredit.net
 trudinform.com
-trudostag.info
 trudostag.xyz
 trudovaya-knizhka.org
 trudovie.com
@@ -13433,8 +13429,6 @@ ulyanovsk.putany.xxx
 undefined.hostname.localhost
 undos.ru
 uniq.adv.bkfind.space
-up-2money.ru
-up-coin.ru
 up-money.win
 up2-money.ru
 up2money.ru
@@ -13504,7 +13498,6 @@ veranda.dp.ua
 verlioka96.ru
 veronpills.com
 veyz.online
-vezer.ru
 vgareme.xxx
 vgoodazartgames.com
 vi493cern792ihol0.bmkolimp.website
@@ -15883,7 +15876,6 @@ www.triobet32.com
 www.tropezru.com
 www.tropvt.com
 www.trpzru.com
-www.trudostag.info
 www.trudovushka.com
 www.trudwork.com
 www.trueinvest.org
@@ -16143,7 +16135,6 @@ www.zvukovorot.com
 www1.bets06.ru
 www1.bets08.ru
 www1.fon1.bet
-www1.fonbetsport24.ru
 www1.myzuka.me
 www1.ssra.ru
 www1.vipfonbet.ru
@@ -16488,6 +16479,7 @@ xn--2010-43dan8dj2ab9b1e.xn--p1ai
 xn--2017-43da9c6aylz4d.xn--p1ai
 xn--2017-93d0e.xn--p1ai
 xn--2017-93dya2bbs1c4a4i.xn--p1acf
+xn--24-6kcaz2abfkty0a.xn--p1ai
 xn--64-6kchjbzbbcvlt3g.xn--p1ai
 xn--64-vlcajwgikkbam.xn--p1ai
 xn--76-8kcaef8fsao.xn--p1ai
@@ -16537,7 +16529,6 @@ xn--b1aailz9d.xn--p1acf
 xn--b1adrbukt2h.xn--p1acf
 xn--b1afpccrbnr0i.xn--p1ai
 xn--c1acj.xn--80aswg
-xn--c1avfbif.net
 xn--c1avfbif.org
 xn--d1acacv1c4b.xn--p1ai
 xn--d1accr3byb8a.xn--p1ai
@@ -16824,7 +16815,6 @@ zerkalo-alternativnyj.ru
 zerkalo-bet.ru
 zerkalo-bets.ru
 zerkalo-bk-rabochee.ru
-zerkalo-bk-rus.ru
 zerkalo-bk-segodnya.ru
 zerkalo-bk-vxod.ru
 zerkalo-bk.xyz
@@ -16858,7 +16848,6 @@ zerkalo-oficial-site.ru
 zerkalo-pari.com
 zerkalo-pari.net
 zerkalo-pari.org
-zerkalo-pari.ru
 zerkalo-parimatch.ru
 zerkalo-rutor.su
 zerkalo-sajta-rabochee.ru
@@ -17030,7 +17019,6 @@ zolotoi-arbuz.net
 zonaprognoza.ru
 zoorc24.biz
 zooshop.pl.ua
-zovets.ru
 zreloe-porno.net
 zvukovorot.com
 zz.jofra.biz
