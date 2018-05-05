@@ -1124,6 +1124,7 @@
 47.254.149.132
 47.254.149.225
 47.254.149.231
+47.254.149.245
 47.254.149.249
 47.254.149.251
 47.254.149.30
@@ -1237,6 +1238,7 @@
 47.74.20.57
 47.74.21.92
 47.74.22.101
+47.74.4.138
 47.74.4.235
 47.74.4.49
 47.74.5.249
@@ -14202,6 +14204,7 @@ www.diploma-novgorod.com
 www.diploma74.com
 www.diplomas-rf.com
 www.diplomatt178.com
+www.diplomavolgograd.ru
 www.diplombox.com
 www.diplomi74.com
 www.diplomiattestat.com
