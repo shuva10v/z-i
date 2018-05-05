@@ -1269,6 +1269,7 @@
 47.91.107.176
 47.91.108.157
 47.91.108.187
+47.91.108.202
 47.91.108.239
 47.91.108.81
 47.91.109.167
@@ -12874,7 +12875,6 @@ telki.co
 telzakaz.ru
 tesak.org
 test1.plusminus1.com
-test2.plusminus1.com
 test3.plusminus1.com
 tfile-torrent.info
 tg.maclikbez.ru
