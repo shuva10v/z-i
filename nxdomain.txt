@@ -436,7 +436,6 @@
 1x-sp-34.com
 1x-sport-bk.com
 1x-sport-bk1.com
-1x-sport-bk2.com
 1x-sport-bk5.com
 1x-sport-bk6.com
 1x-sport-bk7.com
@@ -448,7 +447,6 @@
 1x1514.com
 1x1515.com
 1x1517.com
-1x1524.com
 1x2bet.ru
 1xack.xyz
 1xaez.xyz
@@ -1171,6 +1169,7 @@
 47.254.128.193
 47.254.128.96
 47.254.129.101
+47.254.129.116
 47.254.130.73
 47.254.131.236
 47.254.131.31
@@ -1234,6 +1233,7 @@
 47.254.150.135
 47.254.150.151
 47.254.150.153
+47.254.150.156
 47.254.150.195
 47.254.150.203
 47.254.150.211
@@ -2557,6 +2557,7 @@ admiralccwin.com
 admiralcentr.com
 admiralclub-casino.com
 admiralclub.one
+admiralclub.pro
 admiralclub0plays.com
 admiralclub1bet.com
 admiralclub2bets.com
@@ -12621,6 +12622,7 @@ slotvoyager.best-kazino.com
 slotvoyager.casino-rate.com
 slotvoyager.lucky-man.club
 slotvoyager.top
+slotx.online
 slotx.top
 slotxnew.club
 slotxnew.net
@@ -14010,7 +14012,6 @@ www.1prostitutka.ru
 www.1spravka.org
 www.1x-sport-bk.com
 www.1x-sport-bk1.com
-www.1x-sport-bk2.com
 www.1x-sport-bk4.com
 www.1x-sport-bk5.com
 www.1x-sport-bk6.com
