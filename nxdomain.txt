@@ -131,6 +131,7 @@
 104.215.21.252
 104.215.22.182
 104.215.42.25
+104.239.194.139
 104.239.72.107
 104.239.72.147
 104.239.72.184
@@ -6808,6 +6809,7 @@ kino-bull.ru
 kino-serialu.ru
 kino.cll.su
 kinobomz.tv
+kinodata.club
 kinofestival.net
 kinogo-film.ru
 kinogo-hd.mobi
