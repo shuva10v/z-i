@@ -1151,6 +1151,7 @@
 47.254.150.50
 47.254.150.63
 47.254.150.66
+47.254.150.68
 47.254.150.69
 47.254.150.79
 47.254.151.119
@@ -3570,7 +3571,6 @@ bkzp.ru
 bla.world
 black-d.cn
 black-white-casino.com
-blackcash.pro
 blacknika.ru
 blackstarrc.biz.af
 bladeshow.ru
@@ -14643,6 +14643,8 @@ www.legalmix.org
 www.legalnokypit.ru
 www.legalpoint.biz
 www.legalrc.biz.magazin-v-doverennix-account-legpills.prinimayet-zakazy-pishite-v-kontakty.kuritelnyye-smesi-miksy-marki-sol-dzhiv-jwh-skorost-zakladki.reagenty-kuritelnyye-smesi-geroin-efedrin-metadon-lsd-mdma-jwh.biz
+www.legalrc.biz.magazin-v-doverennix-account.shaman-shaman-vnov-prinimayet-zakazy-pishite-v-kontakty-05.02.2014-pishite-v-kontakty.kuritelnyye-smesi-miksy-marki-sol-dzhiv-jwh-skorost-zakladki.shaman-kz.com
+www.legalrc.biz.magazin-v-doverennix-account.shaman-shaman-vnov-prinimayet-zakazy-pishite-v-kontakty-05.02.2014-pishite-v-kontakty.kuritelnyye-smesi-miksy-marki-sol-dzhiv-jwh-skorost-zakladki.shaman-r.net
 www.legalrc.biz.magazin-v-doverennix-forparty-biz-vsjo-dlja-veseloj.vecherinki-reagent-fr-700-1-k-30-coco-powder-ehffekty-kokaina.reagenty-kuritelnyye-smesi-geroin-efedrin-metadon-lsd-mdma-jwh.biz
 www.legalrc.com.hk
 www.legalrc.us
