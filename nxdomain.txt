@@ -173,6 +173,7 @@
 124-js.825e1c.3e24f490be5f538ea0.xyz
 124.ssra.ru
 125.ssra.ru
+126-178-172-163.rev.cloud.scaleway.com
 128.199.35.197
 128.199.52.107
 12sporting.30bet.site
@@ -1247,6 +1248,7 @@
 47.89.249.191
 47.89.255.227
 47.90.241.22
+47.90.243.71
 47.90.254.96
 47.91.104.19
 47.91.104.208
@@ -7154,6 +7156,7 @@ l2sochi.ru
 l5.sportmarathonbet.com
 la2ice.ru
 labour.ltw.bkfind.space
+labrc.net
 ladies.dosug.cz
 ladies.dosug.xxx
 lady-dent.ru
@@ -12439,7 +12442,6 @@ sport-in-fon.tk
 sport-pit.net
 sport-xbet.com
 sport-zenit.org
-sport.wwbk.ru
 sport.xn-----7kccsdnwdl7acngwqr.xn--p1acf
 sport11x.space
 sport123410.com
@@ -13203,7 +13205,6 @@ vip-zenit.win
 vip.russianvulkan.su
 vip.vu1kano.com
 vip.vulkan-gamez.com
-vip10casino.ru
 vip43546.com
 vipazartplay.com
 vipdipl86.com
@@ -13267,7 +13268,6 @@ vkasino.do-running.com
 vkbets.net
 vklade.info
 vklade24.net
-vkontakte-zerkalo.ru
 vl-diplom.com
 vlad-diploma.ru
 vlad.liveintim.ru
@@ -16464,8 +16464,6 @@ zerkalo-1xbet.com
 zerkalo-1xbet.site
 zerkalo-alternativnyj.ru
 zerkalo-bets.ru
-zerkalo-bk-rabochee.ru
-zerkalo-bk-segodnya.ru
 zerkalo-bk-vxod.ru
 zerkalo-bk.xyz
 zerkalo-bk2017.ru
@@ -16473,7 +16471,6 @@ zerkalo-bk666.ru
 zerkalo-bukmeker.site
 zerkalo-fonbet.com
 zerkalo-fonbet.site
-zerkalo-kak-zajti.ru
 zerkalo-leon.win
 zerkalo-marafon.com
 zerkalo-marafon.men
@@ -16491,9 +16488,6 @@ zerkalo-marafon4.top
 zerkalo-marafon6.top
 zerkalo-marafon7.top
 zerkalo-marafon9.top
-zerkalo-mobilnaya.ru
-zerkalo-novoe.ru
-zerkalo-oficial-site.ru
 zerkalo-pari.com
 zerkalo-pari.net
 zerkalo-pari.org
@@ -16501,9 +16495,7 @@ zerkalo-parimatch.ru
 zerkalo-rutor.su
 zerkalo-sajta-rabochee.ru
 zerkalo-sajta-segodnya.ru
-zerkalo-segodnya.ru
 zerkalo-stavki-na-sport.ru
-zerkalo-zajti.ru
 zerkalo.bktt.ru
 zerkalo.bookolimp.bid
 zerkalo.devolimp.xyz
@@ -16567,7 +16559,6 @@ zerkalo272.ru
 zerkalo295.ru
 zerkalo3-napulte.com
 zerkalo3.vulkan-gamez.com
-zerkalo30.ru
 zerkalo303.ru
 zerkalo318.ru
 zerkalo321.ru
@@ -16630,11 +16621,9 @@ zerkalo989.ru
 zerkalo999.ru
 zerkalobkkontor.ru
 zerkalobukmekerskaya.ru
-zerkalodostupbk.ru
 zerkaloeldorado.com
 zerkalojoycasino.com
 zerkalosaytabk.ru
-zerkalosport.ru
 zerkalovulkana.com
 zerkalowinbets67.space
 zerkalozenit.xyz
