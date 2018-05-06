@@ -581,6 +581,7 @@
 1xmobirt.xyz
 1xmobjir.xyz
 1xmobluo.xyz
+1xmobmac.xyz
 1xmobnad.xyz
 1xmobnat.xyz
 1xmobnec.xyz
@@ -2014,7 +2015,6 @@
 93.189.57.38
 93bf00.olimpb4cc.top
 93d4c6.olimpef97.site
-94-237-42-240.nl-ams1.host.upcloud.com
 94.237.48.117
 9400c8.olimp786f.top
 947420d8d2d528d9c870a84e992d1704-h.gf7tiuy9.info
