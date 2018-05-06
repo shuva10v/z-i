@@ -1,3 +1,4 @@
+&
 0010bkwindbet.com
 00834c.olimp1a50.top
 00bkwindb1.com
@@ -105,6 +106,7 @@
 104.130.141.144
 104.130.222.247
 104.130.239.183
+104.130.239.82
 104.210.1.42
 104.211.176.188
 104.211.177.120
@@ -556,13 +558,16 @@
 1xljj.xyz
 1xloa.xyz
 1xlob.xyz
+1xmobabi.xyz
 1xmobadd.xyz
 1xmobats.xyz
 1xmobcan.xyz
+1xmobcec.xyz
 1xmobcow.xyz
 1xmobcyo.xyz
 1xmobdzt.xyz
 1xmobeac.xyz
+1xmobewz.xyz
 1xmobfen.xyz
 1xmobfiv.xyz
 1xmobgaw.xyz
@@ -573,10 +578,12 @@
 1xmobhqk.xyz
 1xmobiam.xyz
 1xmobipe.xyz
+1xmobirt.xyz
 1xmobjir.xyz
 1xmobluo.xyz
 1xmobnad.xyz
 1xmobnat.xyz
+1xmobnec.xyz
 1xmobniv.xyz
 1xmobogy.xyz
 1xmoboiix.xyz
@@ -585,6 +592,7 @@
 1xmobomyr.xyz
 1xmobotnw.xyz
 1xmoboupv.xyz
+1xmobpha.xyz
 1xmobrak.xyz
 1xmobreh.xyz
 1xmobrij.xyz
@@ -594,6 +602,7 @@
 1xmobudi.xyz
 1xmobvft.xyz
 1xmobvit.xyz
+1xmobvuv.xyz
 1xmobyit.xyz
 1xmobyur.xyz
 1xmobzic.xyz
@@ -796,6 +805,7 @@
 23.102.239.124
 23.253.149.115
 23.253.149.116
+23.253.149.12
 23.253.166.97
 23.253.85.59
 23.253.85.99
@@ -1177,6 +1187,7 @@
 47.254.150.107
 47.254.150.135
 47.254.150.145
+47.254.150.148
 47.254.150.151
 47.254.150.153
 47.254.150.156
@@ -4135,6 +4146,7 @@ casinolimon.top
 casinomira5.com
 casinopromo.site
 casinos-vulcan.com
+casinos-vulcan.online
 casinotropez-ru.com
 casinotwist.ru
 casinovegas.in
@@ -14321,7 +14333,6 @@ www.diploma-novgorod.com
 www.diploma74.com
 www.diplomas-rf.com
 www.diplomatt178.com
-www.diplomavolgograd.ru
 www.diplombox.com
 www.diplomi74.com
 www.diplomiattestat.com
