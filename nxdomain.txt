@@ -779,6 +779,7 @@
 23.100.74.81
 23.100.76.106
 23.102.239.124
+23.253.166.97
 23.253.85.59
 23.253.85.99
 23.96.236.71
@@ -15903,7 +15904,6 @@ www1.bets08.ru
 www1.fon1.bet
 www1.myzuka.me
 www1.ssra.ru
-www1.vipfonbet.ru
 www10.betcity.ru.com
 www10.bkbetcity.com
 www10.zerkalo-bk.com
@@ -16114,6 +16114,7 @@ x-jackpot.com
 x-love.ru
 x-nomer2.com
 x-torrent.net
+x.fap.to
 x1x2.xyz
 x4y.biz
 x9rbfh3f.mega.adv.bkfind.space
