@@ -140,6 +140,7 @@
 104.215.42.25
 104.239.141.138
 104.239.163.31
+104.239.174.176
 104.239.174.234
 104.239.194.139
 104.239.72.107
@@ -557,6 +558,7 @@
 1xlob.xyz
 1xmobadd.xyz
 1xmobats.xyz
+1xmobcan.xyz
 1xmobcow.xyz
 1xmobcyo.xyz
 1xmobdzt.xyz
