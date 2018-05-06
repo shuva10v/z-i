@@ -98,6 +98,8 @@
 101slot.com
 10335c.olimp1a50.top
 1039luxury.com
+104.130.138.94
+104.130.141.144
 104.130.222.247
 104.210.1.42
 104.211.176.188
@@ -1093,6 +1095,7 @@
 47.254.145.156
 47.254.145.163
 47.254.145.18
+47.254.145.209
 47.254.145.67
 47.254.145.89
 47.254.146.149
@@ -15978,7 +15981,6 @@ www2.parimatchwin7.com
 www2.parimatchwin8.com
 www2.pmbet.biz
 www2.tex-osmotr-avto.ru
-www2.vipfonbet.ru
 www2.zerkalo-bk.com
 www24.aaxe.ru
 www24.betcity.ru.com
