@@ -1820,6 +1820,7 @@
 62.210.140.214
 62.4.11.13
 62.4.11.23
+62.4.11.26
 62.4.11.27
 62.4.11.29
 62.4.11.4
@@ -3546,7 +3547,6 @@ bk-marafon-zerkalo.pro
 bk-marafon-zerkalo.space
 bk-marafon.pro
 bk-mix.site
-bk-oficial-zerkalo.ru
 bk-oficialnyj-sajt.ru
 bk-parimatch.com
 bk-sajt-zerkalo.ru
@@ -15988,6 +15988,7 @@ www1.bets08.ru
 www1.fon1.bet
 www1.myzuka.me
 www1.ssra.ru
+www1.vipfonbet.ru
 www10.betcity.ru.com
 www10.bkbetcity.com
 www10.zerkalo-bk.com
