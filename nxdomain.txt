@@ -142,6 +142,7 @@
 104.215.42.25
 104.239.141.138
 104.239.163.31
+104.239.168.211
 104.239.174.176
 104.239.174.234
 104.239.192.62
@@ -1234,6 +1235,7 @@
 47.254.151.75
 47.254.151.96
 47.254.152.103
+47.254.152.129
 47.254.152.130
 47.254.152.204
 47.254.152.22
@@ -3438,6 +3440,7 @@ bgpart1.ru
 bigazart2.com
 bigbet.ge
 bigcinema-online.net
+bigcinema.site
 bigrc.ru
 bigwin1.com
 bigwin2.com
@@ -3690,7 +3693,6 @@ bonusbezdeposita.ru
 bonuscash.net
 bonusgame.online
 boohlo.ru
-book.isito.kg
 book.olimpbook.bid
 book.olimpbook.click
 bookgdz.ru
@@ -6661,6 +6663,7 @@ kinogo.mobi
 kinogotv.ru
 kinokomik.ru
 kinokrad-net.ru
+kinokrad-online.net
 kinokrad.me
 kinokrad.ru
 kinokrad.win
@@ -14698,7 +14701,6 @@ www.imgradus.ru
 www.imperiya-alcogolya.com
 www.indi-krasnodar.info
 www.individualkimoskvy.org
-www.infobookmakers2016.com
 www.inpkr.com
 www.inteensvideo.com
 www.intim.la
