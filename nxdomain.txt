@@ -1217,6 +1217,7 @@
 47.254.150.250
 47.254.150.253
 47.254.150.32
+47.254.150.45
 47.254.150.50
 47.254.150.63
 47.254.150.66
@@ -1284,6 +1285,7 @@
 47.254.68.10
 47.254.68.223
 47.254.68.241
+47.254.69.138
 47.254.69.164
 47.254.69.210
 47.254.69.213
@@ -1333,6 +1335,7 @@
 47.74.8.166
 47.74.9.116
 47.74.9.52
+47.88.57.135
 47.89.241.159
 47.89.249.191
 47.89.255.227
@@ -6080,6 +6083,7 @@ go2baltplay.info
 go2bb.info
 go2bbet.info
 go2blockbb.info
+go2vulcan.com
 goazplaygames.com
 gold-den.com
 gold-prostitutki.ru
@@ -10528,6 +10532,7 @@ platinumadmiral.com
 play-access.club
 play-access.info
 play-access.online
+play-access.pro
 play-access.site
 play-access.xyz
 play-balt.com
