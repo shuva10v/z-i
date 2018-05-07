@@ -341,6 +341,7 @@
 173.249.40.244
 173195.olimp6301.site
 174.138.13.194
+174.143.130.41
 176.227.213.18
 176.227.213.19
 176.227.213.20
@@ -2722,6 +2723,7 @@ annalyson.ru
 anthill.info
 anti-official.com
 antiempire.marsho.net
+antiezh.biz
 ap-01.access-fonbet.click
 ap-01.access-fonbet.club
 ap-01.access-fonbet.com
