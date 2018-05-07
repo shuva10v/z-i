@@ -105,6 +105,7 @@
 104.130.138.94
 104.130.141.144
 104.130.172.247
+104.130.222.240
 104.130.222.247
 104.130.239.183
 104.130.239.82
@@ -2164,6 +2165,7 @@ access-fonbet.org
 access-fonbet.xyz
 access-marafon.win
 access-playbalt.life
+access-playbalt.live
 access-playbalt.online
 access-playbalt.xyz
 access.bkbkbk.ru
@@ -3189,6 +3191,7 @@ baltgames.xyz
 baltplay-access.club
 baltplay-access.info
 baltplay-access.online
+baltplay-access.pro
 baltplay-access.site
 baltplay-access.xyz
 baltplay.bet
@@ -13113,7 +13116,6 @@ tkkchems.com
 tls.zello.com
 tlt.x-sexy.com
 tltklad.org
-to.accessbetcity.com
 to.adv.bkfind.space
 toastlove.xyz
 toblabexpert.website
@@ -13874,6 +13876,7 @@ www.12rlc34.com
 www.1527846mr.com
 www.1prostitutka.ru
 www.1spravka.org
+www.1ve.xyz
 www.1x-sport-bk.com
 www.1x-sport-bk1.com
 www.1x-sport-bk4.com
