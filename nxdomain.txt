@@ -325,6 +325,7 @@
 1603.poker.bkr46.top
 1607.vsepropoker2.ru
 1610.leon-bets.su
+162.242.235.121
 163.172.247.65
 163.172.247.84
 165.227.159.47
@@ -1128,6 +1129,7 @@
 47.254.133.195
 47.254.133.34
 47.254.134.147
+47.254.134.255
 47.254.135.219
 47.254.135.232
 47.254.135.234
@@ -13048,9 +13050,7 @@ telki.club
 telki.co
 telzakaz.ru
 tesak.org
-test1.plusminus1.com
 test2.plusminus1.com
-test3.plusminus1.com
 tfile-torrent.info
 tg.maclikbez.ru
 tglink1.profile.www.service.rkngov.top
