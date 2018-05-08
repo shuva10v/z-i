@@ -156,6 +156,7 @@
 104.239.168.211
 104.239.168.233
 104.239.174.176
+104.239.174.184
 104.239.174.234
 104.239.174.246
 104.239.192.110
@@ -340,6 +341,7 @@
 1607.vsepropoker2.ru
 1610.leon-bets.su
 162.242.235.121
+162.242.235.22
 162.242.235.52
 163.172.247.65
 163.172.247.84
@@ -12160,6 +12162,7 @@ sloticz.com
 slotii.com
 slotirator.com
 slotmachine24.online
+slotmachine24.ru
 sloto-maniya.su
 slotobar.biz
 slotobar.info
@@ -14170,6 +14173,7 @@ www.fon-betsport.info
 www.fon-betsport.org
 www.fon-betsport.tk
 www.fon-betsport.xyz
+www.fon-betting.ru
 www.fon-mail.info
 www.fon-sport.cf
 www.fon-sport.com
@@ -15636,6 +15640,7 @@ www.zombie-legal.com
 www.zvukovorot.com
 www1.bets06.ru
 www1.bets08.ru
+www1.fon-betting.ru
 www1.fon1.bet
 www1.myzuka.me
 www1.ssra.ru
