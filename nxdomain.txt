@@ -381,12 +381,7 @@
 185.164.172.21
 185.17.144.153
 185.203.241.23
-185.209.20.159
 185.237.96.98
-185.241.54.153
-185.241.54.93
-185.244.219.102
-185.244.219.115
 185.26.97.249
 185.27.237.118
 185.97.112.34
@@ -1279,6 +1274,7 @@
 47.254.152.204
 47.254.152.22
 47.254.152.220
+47.254.152.227
 47.254.152.36
 47.254.152.52
 47.254.152.58
@@ -4550,6 +4546,7 @@ diplom-kupit-vuza.info
 diplom-kupit.com
 diplom-kursk.com
 diplom-lipetsk48.com
+diplom-magazine.ru
 diplom-moskow177.com
 diplom-murmansk.com
 diplom-neft.net
@@ -5425,6 +5422,7 @@ fonsport-bet.xyz
 fonsport.cf
 fonsport.tk
 fonsport.xyz
+fonsportbet.biz
 fonsportbet.cf
 fonsportgame.cf
 fonsportgame.tk
@@ -12886,6 +12884,7 @@ stavki-online.site
 stavki-sajt-zerkalo.ru
 stavki-zerkalo.ru
 stavki-zerkalo2.ru
+stavki-zerkalo3.ru
 stavki-zerkalo4.ru
 stavki.ssra.ru
 stavki1xbet.ru
@@ -13022,7 +13021,6 @@ telzakaz.ru
 tesak.org
 test1.plusminus1.com
 test2.plusminus1.com
-test3.plusminus1.com
 tfile-torrent.info
 tg.maclikbez.ru
 tglink1.profile.www.service.rkngov.top
@@ -14656,7 +14654,6 @@ www.hizb-eastafrica.com
 www.hizbuttahrir.org
 www.hlgn24.biz
 www.hollandseeds.org.ua
-www.hollywoodsportsbook.eu
 www.holzblock.ru
 www.hot-voronezh.com
 www.ht-tunisie.info
