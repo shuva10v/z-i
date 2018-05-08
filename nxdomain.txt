@@ -336,6 +336,7 @@
 1607.vsepropoker2.ru
 1610.leon-bets.su
 162.242.235.121
+162.242.235.52
 163.172.247.65
 163.172.247.84
 165.227.159.47
@@ -825,6 +826,7 @@
 23.253.205.232
 23.253.226.7
 23.253.236.74
+23.253.85.106
 23.253.85.109
 23.253.85.112
 23.253.85.50
@@ -1330,6 +1332,7 @@
 47.254.69.210
 47.254.69.213
 47.254.70.155
+47.254.71.89
 47.254.72.50
 47.254.73.104
 47.254.74.124
@@ -3451,7 +3454,6 @@ bezprostitutok.ru
 bezsveta.org
 bezuchet-a.ru
 bf3323.olimpd9f7.top
-bgpart1.ru
 bigazart2.com
 bigbet.ge
 bigcinema-online.net
@@ -3502,7 +3504,6 @@ bk-marafon-zerkalo.space
 bk-marafon.pro
 bk-mix.site
 bk-oficialnyj-sajt.ru
-bk-sajt-zerkalo.ru
 bk-sportfon.cf
 bk-sportfon.tk
 bk-vhod.ru
@@ -3559,7 +3560,6 @@ bkinfo3.online
 bkinfo9.online
 bkleon1.ru
 bkmarafonzerkalo.ru
-bknz.ru
 bkonline1.ru
 bkr.leonbets7a.ru
 bkr.lleonbets6a.ru
@@ -3695,7 +3695,6 @@ buhprofkonsalt.com
 bukanova-alla.com
 bukbaltplay.com
 bukfootball.com
-bukmeker-sport.ru
 bukmeker-zerkalo.site
 bukmeker.aaxe.ru
 bukmeker.bkbe.ru
@@ -4688,6 +4687,7 @@ drugsrnd.ru
 drugvader.biz
 ds130.ru
 dstore24.biz.af
+duble-money.top
 dublealco.com
 dublikat-alkogolya.pro
 dublikatblank.ru
@@ -11352,8 +11352,6 @@ ru.leon215.com
 ru.leon216.com
 ru.leon217.com
 ru.leon218.com
-ru.leon219.com
-ru.leon220.com
 ru.leon221.com
 ru.leon223.com
 ru.leon224.com
@@ -12387,7 +12385,6 @@ sports.tbmir.com
 sports.tbmup.com
 sports.tbpnew.com
 sports.tbpru.com
-sports.tbruc.com
 sports.tbrza.com
 sports18.betin.com
 sports1xtom.com
@@ -16129,7 +16126,6 @@ zedrop.in
 zedrop.me
 zedrop.org
 zedrop.ru
-zedrop.top
 zelmagnit.ru
 zem67.ru
 zeming.ru
