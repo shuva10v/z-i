@@ -99,13 +99,16 @@
 101slot.com
 10335c.olimp1a50.top
 1039luxury.com
+104.130.117.4
 104.130.117.6
+104.130.138.101
 104.130.138.51
 104.130.138.94
 104.130.141.144
 104.130.172.247
 104.130.222.240
 104.130.222.247
+104.130.222.252
 104.130.226.175
 104.130.239.183
 104.130.239.82
@@ -145,6 +148,7 @@
 104.239.141.138
 104.239.163.31
 104.239.168.211
+104.239.168.233
 104.239.174.176
 104.239.174.234
 104.239.192.62
@@ -414,6 +418,7 @@
 195.2.252.170
 198.44.66.58
 198.61.165.26
+198.61.165.47
 198.61.190.106
 198.61.190.119
 198.61.190.139
@@ -816,8 +821,11 @@
 23.253.149.115
 23.253.149.116
 23.253.149.12
+23.253.166.114
+23.253.166.16
 23.253.166.97
 23.253.205.232
+23.253.226.7
 23.253.85.109
 23.253.85.50
 23.253.85.59
@@ -1214,6 +1222,7 @@
 47.254.149.90
 47.254.150.103
 47.254.150.107
+47.254.150.127
 47.254.150.128
 47.254.150.135
 47.254.150.145
@@ -1250,6 +1259,7 @@
 47.254.151.162
 47.254.151.170
 47.254.151.171
+47.254.151.176
 47.254.151.179
 47.254.151.206
 47.254.151.227
@@ -1273,6 +1283,7 @@
 47.254.152.52
 47.254.152.58
 47.254.152.79
+47.254.153.115
 47.254.153.138
 47.254.153.30
 47.254.153.44
@@ -1482,6 +1493,7 @@
 51.141.84.182
 51.141.84.200
 51.141.84.217
+51.141.85.146
 51.141.86.153
 51.141.86.5
 51.141.87.231
@@ -1929,6 +1941,7 @@
 777slotsmoney.info
 777slotsmoney.net
 777slotsmoney.pro
+777slotsvolcano.club
 777vulcan777.com
 777vulkan.org
 777vulkano.com
@@ -1993,6 +2006,7 @@
 84ac8b.olimp6301.site
 84c1c4.olimp1960.top
 85.17.112.56
+85.17.15.243
 85.17.15.87
 864eeb.olimpb138.top
 8667cc.olimpcc44.top
@@ -3220,6 +3234,7 @@ baltplay2.com
 baltplay24.xyz
 baltplay24x7.com
 baltplay365.com
+baltplay4.com
 baltplay5.com
 baltplayaccess.com
 baltplayaccess.info
@@ -4336,6 +4351,7 @@ cosmocard.pro
 cosmocard.site
 cosmocash.xyz
 counter-stop.com
+cprawka.com
 cprawka.ru
 craft-mc.net
 crazy-soap.ru
@@ -13471,6 +13487,7 @@ vsecasino.me
 vsecasino.net
 vsediplomu.ru
 vseprovseh.info
+vseriale.club
 vsesloty.ru
 vseuznaem.org
 vsfilm.ru
@@ -14017,6 +14034,7 @@ www.baltplay2.com
 www.baltplay24.xyz
 www.baltplay24x7.com
 www.baltplay365.com
+www.baltplay4.com
 www.baltplay5.com
 www.baltplaybet.com
 www.baltsport.life
@@ -14264,6 +14282,7 @@ www.cliptec.ru
 www.club-menu.ru
 www.cneurp.com
 www.cntrpz.com
+www.cprawka.com
 www.craft-mc.net
 www.crimecash.org
 www.crystalius.in.ua
@@ -14561,6 +14580,7 @@ www.fonsport.cf
 www.fonsport.pro
 www.fonsport.tk
 www.fonsport.xyz
+www.fonsportbet.biz
 www.fonsportbet.cf
 www.fonsportgame.cf
 www.fonsportgame.com
