@@ -111,6 +111,7 @@
 104.130.222.252
 104.130.226.175
 104.130.239.138
+104.130.239.169
 104.130.239.183
 104.130.239.35
 104.130.239.82
@@ -825,6 +826,7 @@
 23.253.226.7
 23.253.236.74
 23.253.85.109
+23.253.85.112
 23.253.85.50
 23.253.85.59
 23.253.85.82
@@ -1417,6 +1419,7 @@
 47.91.20.172
 47.91.23.208
 47.91.23.91
+47.91.28.106
 47.91.28.85
 47.91.31.142
 47.91.31.162
@@ -1464,6 +1467,7 @@
 5.fon1.bet
 50.300kbit.pw
 50.7.127.218
+50.7.127.219
 50.7.127.58
 500ok.ru
 504b0e.olimp4859.top
@@ -2158,6 +2162,7 @@ a6e0ff.olimpef97.site
 a719123954464c87d0.c2ef25.56da77944fa86649b9.xyz
 a74455.olimp58e8.top
 a76277.olimpd9f7.top
+a783d5.olimp16e5.top
 a7a3eb.olimpa88c.site
 a84188.olimpe24a.top
 a8426a.olimpef97.site
@@ -4171,7 +4176,6 @@ combet343.com
 comfyads.com.ua
 comilfo-men.ru
 conf.fairspice.net
-confuciushome.ru
 connoivideo.ru
 conoplya.com
 cont-tula.ru
@@ -4187,7 +4191,6 @@ coolplay.tk
 copimobile.ru
 cordaodeouro.ru
 cosmocard.pro
-cosmocard.site
 cosmocash.xyz
 counter-stop.com
 cprawka.com
@@ -10034,7 +10037,6 @@ osago-blank.top
 osinaya-taliya.ru
 osiris-shoes.ru
 osoznayu.ru
-ostashkovadm.ru
 ostih.ru
 ot.adv.bkfind.space
 otsoscz.com
