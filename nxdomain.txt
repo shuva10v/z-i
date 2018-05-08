@@ -150,6 +150,7 @@
 104.215.42.25
 104.239.141.138
 104.239.163.31
+104.239.163.43
 104.239.168.211
 104.239.168.233
 104.239.174.176
@@ -16036,6 +16037,7 @@ xxx-for.men
 xxx-navigator.com
 xxx-samara.net
 xxx64-club.com
+xxxdosugufa.com
 xxxgig.net
 xxxonlinevideo.ru
 xxxslot.site
