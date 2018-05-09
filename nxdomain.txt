@@ -1451,6 +1451,7 @@
 47.91.16.133
 47.91.17.119
 47.91.17.24
+47.91.19.125
 47.91.19.255
 47.91.20.172
 47.91.23.208
@@ -2797,6 +2798,8 @@ alkotime66.net
 alkotime66.ru
 alkotrest.top
 alkotyt.ru
+all-diploms.net
+all-diplomy.net
 all1x-sport.com
 allbuker.ru
 allfilmonline.vc
@@ -12756,6 +12759,7 @@ stost-online.ru
 strategii-kazino.ru
 strojca.top
 stroy-m98.ru
+stroyka-udostovereniya-kupit.com
 studio-dekor.ru
 studio.ltm.bkfind.space
 study-diplom.com
