@@ -988,6 +988,7 @@
 47.254.152.52
 47.254.152.58
 47.254.152.79
+47.254.152.95
 47.254.153.108
 47.254.153.115
 47.254.153.138
@@ -1021,6 +1022,7 @@
 47.254.65.37
 47.254.65.5
 47.254.66.107
+47.254.66.143
 47.254.66.16
 47.254.66.54
 47.254.67.18
@@ -1104,6 +1106,7 @@
 47.91.106.221
 47.91.106.47
 47.91.106.66
+47.91.107.117
 47.91.107.120
 47.91.107.176
 47.91.108.124
@@ -3486,7 +3489,6 @@ diplom-barnaul.com
 diplom-belgorod.com
 diplom-cheboksary.com
 diplom-dom.com
-diplom-goznak.su
 diplom-guru.ru
 diplom-habarovsk.com
 diplom-kaliningrad.com
@@ -5633,7 +5635,6 @@ landingpage.goldfishka40.com
 laughing-unicorn.com
 lavanda-casino.com
 lavkachudes.shops3jckh3dexzy.onion.nu
-lbblandlinksleon.xyz
 lbbpagelandss.xyz
 lblandingslink2.com
 lblandsslinks7.xyz
@@ -6359,7 +6360,6 @@ m.windbetgold9001.com
 m.windbetgold901.com
 m.windbetgold920.com
 m.windbetgold9200.com
-m.windbk.com
 m.winzenit.win
 m.wndbk00.com
 m.wndbk0010.com
@@ -9887,7 +9887,6 @@ sx1537.com
 sx1538.com
 sx1540.com
 sx1541.com
-sxsmotricom.com
 sytcheff.ru
 szcbi.com
 t-diplom.com
