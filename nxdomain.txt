@@ -32,7 +32,6 @@
 0windbk2.com
 1.epidema.net
 1.fon1.bet
-10-10.online
 10.300kbit.pw
 100medspravok.org
 1010.leon-bets.su
@@ -107,6 +106,7 @@
 104.239.174.176
 104.239.174.184
 104.239.174.195
+104.239.174.231
 104.239.174.234
 104.239.174.246
 104.239.192.110
@@ -380,24 +380,13 @@
 1xijy.xyz
 1xjig.xyz
 1xmobabi.xyz
-1xmobadd.xyz
-1xmobcan.xyz
 1xmobcec.xyz
-1xmobcow.xyz
-1xmobeac.xyz
 1xmobewz.xyz
-1xmobfiv.xyz
-1xmobgib.xyz
-1xmobiam.xyz
 1xmobirt.xyz
 1xmobmac.xyz
-1xmobnad.xyz
 1xmobnec.xyz
 1xmobpha.xyz
-1xmobrue.xyz
-1xmobvit.xyz
 1xmobvuv.xyz
-1xmobyit.xyz
 1xoos.xyz
 1xpsort.com
 1xs-ort.com
@@ -1414,6 +1403,7 @@
 52.232.124.213
 52.232.160.246
 52.232.180.228
+52.232.245.254
 52.233.163.167
 52.233.191.17
 52.233.28.35
@@ -2893,6 +2883,7 @@ bk-info1.online
 bk-info18.online
 bk-info19.online
 bk-info3.online
+bk-info37.online
 bk-info5.online
 bk-info54.online
 bk-info7.online
@@ -3284,7 +3275,6 @@ casino-velkam4.co
 casino-velkam5.co
 casino-velkam6.co
 casino-velkam7.co
-casino-velkam8.co
 casino-vulcan.net
 casino-vulkan-online.com
 casino-x-play.com
@@ -5215,7 +5205,6 @@ kupit-spaysstavropol.gaba.biz
 kupit-spayssurgut.gaba.biz
 kupit-spayssyktyvkar.gaba.biz
 kupit-spaystumen.gaba.biz
-kupit-spice.ml
 kupit-svidetelstva.com
 kupitdiploma.ru
 kupitdiplomsk.com
@@ -7703,6 +7692,7 @@ ru.leon241.com
 ru.leon243.com
 ru.leon246.com
 ru.leon249.com
+ru.leon64.com
 ru.leonbatman.com
 ru.leonbet.info
 ru.leonbets23.ru
