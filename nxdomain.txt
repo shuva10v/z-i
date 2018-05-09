@@ -97,6 +97,7 @@
 104.130.138.51
 104.130.138.58
 104.130.138.94
+104.130.138.98
 104.130.141.144
 104.130.172.247
 104.130.204.73
@@ -379,7 +380,6 @@
 184.173.166.57
 184.173.166.59
 184.173.179.127
-185-20-138-223.fi-hel1.host.upcloud.com
 185-20-138-54.fi-hel1.host.upcloud.com
 185.104.208.13
 185.104.208.3
@@ -1139,6 +1139,7 @@
 47.254.134.147
 47.254.134.255
 47.254.135.163
+47.254.135.169
 47.254.135.219
 47.254.135.232
 47.254.135.234
@@ -2097,7 +2098,6 @@
 93.189.57.38
 93bf00.olimpb4cc.top
 93d4c6.olimpef97.site
-94-237-42-218.nl-ams1.host.upcloud.com
 94.237.48.117
 9400c8.olimp786f.top
 947420d8d2d528d9c870a84e992d1704-h.gf7tiuy9.info
@@ -4002,7 +4002,6 @@ casino-for-money.net
 casino-frank.org
 casino-imperator.co
 casino-imperator.in
-casino-imperator.net
 casino-khan.co
 casino-khan.net
 casino-obzor.me
@@ -4323,7 +4322,6 @@ devki63.com
 devochkinadosug.ru
 devonkigud.ru
 devonkitut.ru
-devushki-individualki-73.ru
 devushkigud.ru
 df61a1.olimpef97.site
 dial-78-141-104-67.orange.sk
@@ -7299,18 +7297,11 @@ lipetsk.prostitutki.toys
 lipetsk.prostitutki24.casa
 lipetsk.prostitutkirest.com
 lipharm.ru
-lis13.xyz
 lis14.xyz
-lis15.xyz
-lis16.xyz
 lis17.xyz
-lis18.xyz
-lis19.xyz
 lis20.xyz
 lis21.xyz
-lis22.xyz
 lis23.xyz
-lis24.xyz
 lismag.ru
 lithub.ru
 littlebyte.us
@@ -14424,17 +14415,11 @@ www.ligastar6.com
 www.ligastarbet.com
 www.ligastarbet.ru
 www.lis13.xyz
-www.lis14.xyz
 www.lis15.xyz
-www.lis16.xyz
 www.lis17.xyz
 www.lis18.xyz
-www.lis19.xyz
-www.lis20.xyz
 www.lis21.xyz
-www.lis22.xyz
 www.lis23.xyz
-www.lis24.xyz
 www.list-spb.com
 www.litecoincasinoonline.com
 www.lithub.ru
