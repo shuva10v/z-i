@@ -107,6 +107,7 @@
 104.130.141.144
 104.130.172.247
 104.130.204.73
+104.130.204.94
 104.130.207.132
 104.130.222.156
 104.130.222.240
@@ -387,6 +388,7 @@
 184.173.166.59
 184.173.179.127
 185-20-138-223.fi-hel1.host.upcloud.com
+185-20-138-54.fi-hel1.host.upcloud.com
 185.104.208.13
 185.104.208.3
 185.104.209.14
@@ -2829,6 +2831,7 @@ anthill.info
 anti-official.com
 antiempire.marsho.net
 antiezh.biz
+any-diploms.com
 ap-01.access-fonbet.click
 ap-01.access-fonbet.club
 ap-01.access-fonbet.com
