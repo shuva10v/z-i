@@ -70,6 +70,7 @@
 104.130.222.252
 104.130.226.175
 104.130.239.106
+104.130.239.119
 104.130.239.138
 104.130.239.149
 104.130.239.169
@@ -994,6 +995,7 @@
 47.254.153.44
 47.254.153.6
 47.254.153.70
+47.254.155.127
 47.254.21.157
 47.254.21.51
 47.254.24.214
@@ -1058,6 +1060,7 @@
 47.74.15.142
 47.74.15.234
 47.74.15.241
+47.74.16.22
 47.74.16.85
 47.74.17.167
 47.74.19.197
@@ -1116,6 +1119,7 @@
 47.91.109.204
 47.91.109.205
 47.91.109.211
+47.91.109.30
 47.91.109.37
 47.91.109.66
 47.91.16.110
@@ -10965,6 +10969,7 @@ www.betfon.org
 www.betfon.tk
 www.betftv.com
 www.betgames.ru
+www.betin76.com
 www.betinfon.cf
 www.betinfon.club
 www.betinfon.net
@@ -12718,7 +12723,6 @@ www2.parimatchpm9.com
 www2.parimatchstavka10.com
 www2.parimatchstavka2.com
 www2.parimatchwin3.com
-www2.vipfonbet.ru
 www2.zerkalo-bk.com
 www2.zerkalo-fonbet.ru
 www24.aaxe.ru
