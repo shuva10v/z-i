@@ -477,6 +477,7 @@
 47.254.131.31
 47.254.131.79
 47.254.132.156
+47.254.132.171
 47.254.132.206
 47.254.132.69
 47.254.132.82
@@ -4682,7 +4683,6 @@ ru-diploms.net
 ru-porn.tv
 ru.1admiralxxx.ru
 ru.2admiralxxx.ru
-ru.777-online-gambling.net
 ru.7777azino.win
 ru.admiral-x.men
 ru.bookzz.org
