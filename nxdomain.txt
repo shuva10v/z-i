@@ -273,6 +273,7 @@
 184.173.166.57
 184.173.166.59
 184.173.179.127
+185-20-138-54.fi-hel1.host.upcloud.com
 185.104.208.13
 185.104.208.3
 185.104.209.14
@@ -318,6 +319,7 @@
 198.61.190.139
 198.61.190.243
 198.61.190.67
+19d100.olimp1a50.top
 1looadbit.herjecg.pp.ua
 1ve.xyz
 1windbk00.com
@@ -414,11 +416,13 @@
 23.253.166.93
 23.253.166.97
 23.253.174.125
+23.253.205.138
 23.253.205.232
 23.253.226.7
 23.253.236.74
 23.253.73.81
 23.253.85.102
+23.253.85.104
 23.253.85.106
 23.253.85.109
 23.253.85.112
@@ -895,6 +899,7 @@
 47.254.72.50
 47.254.73.104
 47.254.74.124
+47.74.0.170
 47.74.10.111
 47.74.10.124
 47.74.10.172
@@ -928,6 +933,7 @@
 47.74.21.92
 47.74.22.101
 47.74.22.39
+47.74.22.4
 47.74.4.138
 47.74.4.235
 47.74.4.49
@@ -3229,7 +3235,6 @@ domsexa.ru
 don-bottleshop.ru
 doncasino.ru
 doni27.com
-doni55.com
 doniomsk.biz
 doping-spb.ru
 doska.dvru.ru
@@ -3295,7 +3300,6 @@ drugsfun.net
 drugshop.ml
 drugsrc.biz
 ds130.ru
-dstore24.biz.af
 duble-money.top
 dublealco.com
 dublikat-alkogolya.pro
@@ -8505,6 +8509,7 @@ voditelskie-prava.com
 voditelskoe-udostoverenie-1.org
 vodkakoniak.org
 vodpravarus.ru
+volcano-ag.com
 volcano-azart1.com
 volcano-azart2.com
 volcano-azart3.com
