@@ -45,6 +45,7 @@
 104.130.138.94
 104.130.138.98
 104.130.141.144
+104.130.141.63
 104.130.172.247
 104.130.204.73
 104.130.204.94
@@ -105,6 +106,7 @@
 104.239.168.211
 104.239.168.233
 104.239.174.176
+104.239.174.179
 104.239.174.184
 104.239.174.195
 104.239.174.231
@@ -2820,6 +2822,7 @@ betterrcs.com
 betting.zzwr.ru
 betzenit.xyz
 betzenitsport.xyz
+bez-ekzamena.in
 bez-ekzamena.net
 bez-ucheta.ru
 beznal.online
@@ -8030,6 +8033,7 @@ russocasino.net
 rustrelok.net
 rutor.edu.pl
 rutor.org
+rutor1.info
 rutorg.org.live-rutor.org
 rutracker.biz.pl
 rutracker0.club
