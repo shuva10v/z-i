@@ -9,6 +9,21 @@ import os
 import requests
 from netaddr import IPNetwork, IPAddress
 
+"""
+Jenkins run instuction:
+1. Create Freestyle project
+2. Add git repo https://github.com/shuva10v/z-i.git (origin) and https://github.com/zapret-info/z-i.git (upstream)
+3. Add execute shell build step with the code:
+	git fetch upstream
+	git checkout origin/master
+	git config --global user.email "user@example.com"
+	git config --global user.name "user"
+	git rebase upstream/master
+	pip install -r requirements.txt
+	python aws_ec2_instances_check.py
+4. Pass SLACK_URL env with Credentials Binding Plugin
+"""
+
 def parse_blacklist():
 	blacklist = collections.defaultdict(lambda: set())
 	with codecs.open("dump.csv", encoding="cp1251") as dump:
